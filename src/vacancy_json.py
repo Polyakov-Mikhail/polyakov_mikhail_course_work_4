@@ -24,12 +24,12 @@ class Saver(ABC):
 class JSONSaver(Saver):
     """ Класс для записи в json-файл по пути data/vacancies.json"""
 
-    data_json = "../data/vacancies.json"
+    data_json = "data/vacancies.json"
     path_operations = os.path.abspath(data_json)
 
     def add_data(self, vacancy):
         """Сохранить все вакансии в файл"""
-        print(f'\nСохранение {len(vacancy)} вакансий в файл {self.path_operations}\n\n')
+        print(f'\nЯ нашел {len(vacancy)} подходящих вакансий и сохранил в файл {self.path_operations}\n\n')
         with open(self.path_operations, 'w', encoding='utf-8') as file:
             json.dump(vacancy, file, ensure_ascii=False, indent=4)
 
