@@ -1,7 +1,6 @@
 from typing import List
 
 
-
 class Vacancy:
     """ Класс для работы с вакансиями """
 
@@ -13,8 +12,6 @@ class Vacancy:
         self.url = url
         self.responsibility = responsibility
 
-
-
     def __lt__(self, other):
         """Метод сравнения вакансий между собой по зарплате по зарплате"""
 
@@ -22,7 +19,6 @@ class Vacancy:
             return self.salary_from <= other.salary_from
         elif self.salary_from == 0:
             return self.salary_to <= other.salary_from
-
 
     def __str__(self):
         """Метод для представляния вакансий при печати"""

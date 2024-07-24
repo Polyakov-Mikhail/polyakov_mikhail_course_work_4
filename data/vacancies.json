@@ -1619,6 +1619,112 @@
         "adv_context": null
     },
     {
+        "id": "101129305",
+        "premium": false,
+        "name": "Курьер легких заказов - совмещение без графика. СРОЧНО!",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+            "from": 120000,
+            "to": 0,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Екатеринбург",
+            "street": "Восточная улица",
+            "building": "82",
+            "lat": 56.834166,
+            "lng": 60.634009,
+            "description": null,
+            "raw": "Екатеринбург, Восточная улица, 82",
+            "metro": null,
+            "metro_stations": [],
+            "id": "15637475"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-07-03T11:33:15+0300",
+        "created_at": "2024-07-03T11:33:15+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101129305",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/101129305?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/101129305",
+        "relations": [],
+        "employer": {
+            "id": "9594280",
+            "name": "Работа сегодня (ИП Холин Андрей Сергеевич)",
+            "url": "https://api.hh.ru/employers/9594280",
+            "alternate_url": "https://hh.ru/employer/9594280",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/6777835.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/6777834.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1289384.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9594280",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Телефон андройд или айфон. Желание зарабатывать.",
+            "responsibility": "Доставка небольших посылок. (товары для дома, интернет заказы рестораны, и т.д.) Время доставок вы выбираете самостоятельно -сами. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "flexible",
+            "name": "Гибкий график"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "Работа только по сб и вс"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "58",
+                "name": "Курьер"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
         "id": "103551754",
         "premium": false,
         "name": "Водитель-курьер на личном автомобиле, подработка",
@@ -1799,112 +1905,6 @@
         "employment": {
             "id": "full",
             "name": "Полная занятость"
-        },
-        "adv_response_url": null,
-        "is_adv_vacancy": false,
-        "adv_context": null
-    },
-    {
-        "id": "101129305",
-        "premium": false,
-        "name": "Курьер легких заказов - совмещение без графика. СРОЧНО!",
-        "department": null,
-        "has_test": false,
-        "response_letter_required": false,
-        "area": {
-            "id": "3",
-            "name": "Екатеринбург",
-            "url": "https://api.hh.ru/areas/3"
-        },
-        "salary": {
-            "from": 120000,
-            "to": 0,
-            "currency": "RUR",
-            "gross": false
-        },
-        "type": {
-            "id": "open",
-            "name": "Открытая"
-        },
-        "address": {
-            "city": "Екатеринбург",
-            "street": "Восточная улица",
-            "building": "82",
-            "lat": 56.834166,
-            "lng": 60.634009,
-            "description": null,
-            "raw": "Екатеринбург, Восточная улица, 82",
-            "metro": null,
-            "metro_stations": [],
-            "id": "15637475"
-        },
-        "response_url": null,
-        "sort_point_distance": null,
-        "published_at": "2024-07-03T11:33:15+0300",
-        "created_at": "2024-07-03T11:33:15+0300",
-        "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101129305",
-        "show_logo_in_search": null,
-        "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/101129305?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/101129305",
-        "relations": [],
-        "employer": {
-            "id": "9594280",
-            "name": "Работа сегодня (ИП Холин Андрей Сергеевич)",
-            "url": "https://api.hh.ru/employers/9594280",
-            "alternate_url": "https://hh.ru/employer/9594280",
-            "logo_urls": {
-                "240": "https://img.hhcdn.ru/employer-logo/6777835.jpeg",
-                "90": "https://img.hhcdn.ru/employer-logo/6777834.jpeg",
-                "original": "https://img.hhcdn.ru/employer-logo-original/1289384.jpg"
-            },
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9594280",
-            "accredited_it_employer": false,
-            "trusted": true
-        },
-        "snippet": {
-            "requirement": "Телефон андройд или айфон. Желание зарабатывать.",
-            "responsibility": "Доставка небольших посылок. (товары для дома, интернет заказы рестораны, и т.д.) Время доставок вы выбираете самостоятельно -сами. "
-        },
-        "contacts": null,
-        "schedule": {
-            "id": "flexible",
-            "name": "Гибкий график"
-        },
-        "working_days": [
-            {
-                "id": "only_saturday_and_sunday",
-                "name": "Работа только по сб и вс"
-            }
-        ],
-        "working_time_intervals": [
-            {
-                "id": "from_four_to_six_hours_in_a_day",
-                "name": "Можно работать сменами по 4–6 часов в день"
-            }
-        ],
-        "working_time_modes": [
-            {
-                "id": "start_after_sixteen",
-                "name": "Можно начинать работать после 16:00"
-            }
-        ],
-        "accept_temporary": true,
-        "professional_roles": [
-            {
-                "id": "58",
-                "name": "Курьер"
-            }
-        ],
-        "accept_incomplete_resumes": true,
-        "experience": {
-            "id": "noExperience",
-            "name": "Нет опыта"
-        },
-        "employment": {
-            "id": "part",
-            "name": "Частичная занятость"
         },
         "adv_response_url": null,
         "is_adv_vacancy": false,
@@ -2148,96 +2148,6 @@
         "adv_context": null
     },
     {
-        "id": "104088267",
-        "premium": false,
-        "name": "Курьер (600-700р/час, СРОЧНАЯ подработка с ежедневной оплатой)",
-        "department": null,
-        "has_test": false,
-        "response_letter_required": false,
-        "area": {
-            "id": "3",
-            "name": "Екатеринбург",
-            "url": "https://api.hh.ru/areas/3"
-        },
-        "salary": {
-            "from": 140000,
-            "to": 150000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "type": {
-            "id": "open",
-            "name": "Открытая"
-        },
-        "address": null,
-        "response_url": null,
-        "sort_point_distance": null,
-        "published_at": "2024-07-17T15:09:06+0300",
-        "created_at": "2024-07-17T15:09:06+0300",
-        "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=104088267",
-        "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/104088267?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/104088267",
-        "relations": [],
-        "employer": {
-            "id": "11253120",
-            "name": "Титова Наталья Геннадьевна",
-            "url": "https://api.hh.ru/employers/11253120",
-            "alternate_url": "https://hh.ru/employer/11253120",
-            "logo_urls": null,
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11253120",
-            "accredited_it_employer": false,
-            "trusted": true
-        },
-        "snippet": {
-            "requirement": "Информация отсутствует",
-            "responsibility": "Необходимо доставлять готовые заказы до клиента."
-        },
-        "contacts": null,
-        "schedule": {
-            "id": "fullDay",
-            "name": "Полный день"
-        },
-        "working_days": [
-            {
-                "id": "only_saturday_and_sunday",
-                "name": "Работа только по сб и вс"
-            }
-        ],
-        "working_time_intervals": [
-            {
-                "id": "from_four_to_six_hours_in_a_day",
-                "name": "Можно работать сменами по 4–6 часов в день"
-            }
-        ],
-        "working_time_modes": [
-            {
-                "id": "start_after_sixteen",
-                "name": "Можно начинать работать после 16:00"
-            }
-        ],
-        "accept_temporary": false,
-        "professional_roles": [
-            {
-                "id": "58",
-                "name": "Курьер"
-            }
-        ],
-        "accept_incomplete_resumes": true,
-        "experience": {
-            "id": "noExperience",
-            "name": "Нет опыта"
-        },
-        "employment": {
-            "id": "full",
-            "name": "Полная занятость"
-        },
-        "adv_response_url": null,
-        "is_adv_vacancy": false,
-        "adv_context": null
-    },
-    {
         "id": "103122784",
         "premium": false,
         "name": "Водитель-курьер на автомобиль компании категории В",
@@ -2324,9 +2234,9 @@
         "adv_context": null
     },
     {
-        "id": "102761963",
+        "id": "104088267",
         "premium": false,
-        "name": "Водитель-курьер на личном автомобиле",
+        "name": "Курьер (600-700р/час, СРОЧНАЯ подработка с ежедневной оплатой)",
         "department": null,
         "has_test": false,
         "response_letter_required": false,
@@ -2336,8 +2246,8 @@
             "url": "https://api.hh.ru/areas/3"
         },
         "salary": {
-            "from": 60000,
-            "to": 105000,
+            "from": 140000,
+            "to": 150000,
             "currency": "RUR",
             "gross": false
         },
@@ -2348,46 +2258,56 @@
         "address": null,
         "response_url": null,
         "sort_point_distance": null,
-        "published_at": "2024-06-26T12:00:51+0300",
-        "created_at": "2024-06-26T12:00:51+0300",
+        "published_at": "2024-07-17T15:09:06+0300",
+        "created_at": "2024-07-17T15:09:06+0300",
         "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102761963",
-        "show_logo_in_search": null,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=104088267",
         "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/102761963?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/102761963",
+        "url": "https://api.hh.ru/vacancies/104088267?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/104088267",
         "relations": [],
         "employer": {
-            "id": "3406492",
-            "name": "Шампурико",
-            "url": "https://api.hh.ru/employers/3406492",
-            "alternate_url": "https://hh.ru/employer/3406492",
-            "logo_urls": {
-                "original": "https://img.hhcdn.ru/employer-logo-original/1276909.jpg",
-                "90": "https://img.hhcdn.ru/employer-logo/6727938.jpeg",
-                "240": "https://img.hhcdn.ru/employer-logo/6727939.jpeg"
-            },
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3406492",
+            "id": "11253120",
+            "name": "Титова Наталья Геннадьевна",
+            "url": "https://api.hh.ru/employers/11253120",
+            "alternate_url": "https://hh.ru/employer/11253120",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=11253120",
             "accredited_it_employer": false,
             "trusted": true
         },
         "snippet": {
-            "requirement": "Если нет опыта, но есть большое желание работать - приходи обучим !",
-            "responsibility": "Работа в специальном приложении, где можно видеть маршрут доставки и оценки гостей."
+            "requirement": "Информация отсутствует",
+            "responsibility": "Необходимо доставлять готовые заказы до клиента."
         },
         "contacts": null,
         "schedule": {
             "id": "fullDay",
             "name": "Полный день"
         },
-        "working_days": [],
-        "working_time_intervals": [],
-        "working_time_modes": [],
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "Работа только по сб и вс"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
         "accept_temporary": false,
         "professional_roles": [
             {
-                "id": "8",
-                "name": "Администратор"
+                "id": "58",
+                "name": "Курьер"
             }
         ],
         "accept_incomplete_resumes": true,
@@ -2495,6 +2415,86 @@
         "adv_context": null
     },
     {
+        "id": "102761963",
+        "premium": false,
+        "name": "Водитель-курьер на личном автомобиле",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+            "from": 60000,
+            "to": 105000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-06-26T12:00:51+0300",
+        "created_at": "2024-06-26T12:00:51+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102761963",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/102761963?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/102761963",
+        "relations": [],
+        "employer": {
+            "id": "3406492",
+            "name": "Шампурико",
+            "url": "https://api.hh.ru/employers/3406492",
+            "alternate_url": "https://hh.ru/employer/3406492",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1276909.jpg",
+                "90": "https://img.hhcdn.ru/employer-logo/6727938.jpeg",
+                "240": "https://img.hhcdn.ru/employer-logo/6727939.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3406492",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Если нет опыта, но есть большое желание работать - приходи обучим !",
+            "responsibility": "Работа в специальном приложении, где можно видеть маршрут доставки и оценки гостей."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "8",
+                "name": "Администратор"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
         "id": "103270301",
         "premium": false,
         "name": "Пеший курьер на легкие заказы",
@@ -2590,101 +2590,6 @@
         "adv_context": null
     },
     {
-        "id": "102201231",
-        "premium": false,
-        "name": "Водитель-курьер на собственном автомобиле",
-        "department": null,
-        "has_test": false,
-        "response_letter_required": false,
-        "area": {
-            "id": "3",
-            "name": "Екатеринбург",
-            "url": "https://api.hh.ru/areas/3"
-        },
-        "salary": {
-            "from": 0,
-            "to": 118000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "type": {
-            "id": "open",
-            "name": "Открытая"
-        },
-        "address": {
-            "city": "Екатеринбург",
-            "street": "ЕКАД, 5-й километр",
-            "building": "6/14",
-            "lat": 56.755546,
-            "lng": 60.763339,
-            "description": null,
-            "raw": "Екатеринбург, ЕКАД, 5-й километр, 6/14",
-            "metro": null,
-            "metro_stations": [],
-            "id": "5036437"
-        },
-        "response_url": null,
-        "sort_point_distance": null,
-        "published_at": "2024-07-01T10:43:32+0300",
-        "created_at": "2024-07-01T10:43:32+0300",
-        "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102201231",
-        "branding": {
-            "type": "MAKEUP",
-            "tariff": null
-        },
-        "show_logo_in_search": true,
-        "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/102201231?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/102201231",
-        "relations": [],
-        "employer": {
-            "id": "4232036",
-            "name": "СберЛогистика",
-            "url": "https://api.hh.ru/employers/4232036",
-            "alternate_url": "https://hh.ru/employer/4232036",
-            "logo_urls": {
-                "original": "https://img.hhcdn.ru/employer-logo-original/779423.png",
-                "240": "https://img.hhcdn.ru/employer-logo/3558584.png",
-                "90": "https://img.hhcdn.ru/employer-logo/3558583.png"
-            },
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4232036",
-            "accredited_it_employer": false,
-            "trusted": true
-        },
-        "snippet": {
-            "requirement": "Наличие личного вместительного автомобиля и готовность использовать его для сотрудничества. Наличие телефона на базе Android. Готовность к сотрудничеству в статусе...",
-            "responsibility": "Доставлять заказы клиентам на личном автомобиле. Оформлять сопроводительную документацию при передаче заказа. Осуществлять денежные расчеты с клиентами наличной/безналичной оплатой..."
-        },
-        "contacts": null,
-        "schedule": {
-            "id": "fullDay",
-            "name": "Полный день"
-        },
-        "working_days": [],
-        "working_time_intervals": [],
-        "working_time_modes": [],
-        "accept_temporary": true,
-        "professional_roles": [
-            {
-                "id": "21",
-                "name": "Водитель"
-            }
-        ],
-        "accept_incomplete_resumes": false,
-        "experience": {
-            "id": "noExperience",
-            "name": "Нет опыта"
-        },
-        "employment": {
-            "id": "full",
-            "name": "Полная занятость"
-        },
-        "adv_response_url": null,
-        "is_adv_vacancy": false,
-        "adv_context": null
-    },
-    {
         "id": "104361119",
         "premium": false,
         "name": "Водитель-курьер на Lada Largus",
@@ -2767,6 +2672,101 @@
             }
         ],
         "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "102201231",
+        "premium": false,
+        "name": "Водитель-курьер на собственном автомобиле",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+            "from": 0,
+            "to": 118000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Екатеринбург",
+            "street": "ЕКАД, 5-й километр",
+            "building": "6/14",
+            "lat": 56.755546,
+            "lng": 60.763339,
+            "description": null,
+            "raw": "Екатеринбург, ЕКАД, 5-й километр, 6/14",
+            "metro": null,
+            "metro_stations": [],
+            "id": "5036437"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-07-01T10:43:32+0300",
+        "created_at": "2024-07-01T10:43:32+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102201231",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/102201231?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/102201231",
+        "relations": [],
+        "employer": {
+            "id": "4232036",
+            "name": "СберЛогистика",
+            "url": "https://api.hh.ru/employers/4232036",
+            "alternate_url": "https://hh.ru/employer/4232036",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/779423.png",
+                "240": "https://img.hhcdn.ru/employer-logo/3558584.png",
+                "90": "https://img.hhcdn.ru/employer-logo/3558583.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4232036",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Наличие личного вместительного автомобиля и готовность использовать его для сотрудничества. Наличие телефона на базе Android. Готовность к сотрудничеству в статусе...",
+            "responsibility": "Доставлять заказы клиентам на личном автомобиле. Оформлять сопроводительную документацию при передаче заказа. Осуществлять денежные расчеты с клиентами наличной/безналичной оплатой..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "21",
+                "name": "Водитель"
+            }
+        ],
+        "accept_incomplete_resumes": false,
         "experience": {
             "id": "noExperience",
             "name": "Нет опыта"
@@ -2874,6 +2874,86 @@
         "adv_context": null
     },
     {
+        "id": "102209953",
+        "premium": false,
+        "name": "Водитель-курьер на личном легковом автомобиле",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+            "from": 120000,
+            "to": 126000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-07-10T10:15:10+0300",
+        "created_at": "2024-07-10T10:15:10+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102209953",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/102209953?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/102209953",
+        "relations": [],
+        "employer": {
+            "id": "81214",
+            "name": "ПартКом",
+            "url": "https://api.hh.ru/employers/81214",
+            "alternate_url": "https://hh.ru/employer/81214",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/893703.png",
+                "90": "https://img.hhcdn.ru/employer-logo/4015499.png",
+                "240": "https://img.hhcdn.ru/employer-logo/4015500.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=81214",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Наличие личного автомобиля и готовность его использовать. Наличие телефона на базе Android и готовность его использовать. Готовность к сотрудничеству в...",
+            "responsibility": "Доставлять запчасти для автомобилей клиентам на личном легковом авто по составленному маршруту одного из районов города (автосервисы, автомагазины, дилеры). "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "21",
+                "name": "Водитель"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
         "id": "99291176",
         "premium": false,
         "name": "Пеший курьер/велокурьер",
@@ -2975,97 +3055,6 @@
         "adv_context": null
     },
     {
-        "id": "104321754",
-        "premium": true,
-        "name": "Курьер (от 600-700р/час, подработка СРОЧНО, платим ежедневно)",
-        "department": null,
-        "has_test": false,
-        "response_letter_required": false,
-        "area": {
-            "id": "3",
-            "name": "Екатеринбург",
-            "url": "https://api.hh.ru/areas/3"
-        },
-        "salary": {
-            "from": 140000,
-            "to": 150000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "type": {
-            "id": "open",
-            "name": "Открытая"
-        },
-        "address": null,
-        "response_url": null,
-        "sort_point_distance": null,
-        "published_at": "2024-07-22T07:04:31+0300",
-        "created_at": "2024-07-22T07:04:31+0300",
-        "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=104321754",
-        "show_logo_in_search": true,
-        "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/104321754?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/104321754",
-        "relations": [],
-        "employer": {
-            "id": "9622609",
-            "name": "Дудкина Дарья",
-            "url": "https://api.hh.ru/employers/9622609",
-            "alternate_url": "https://hh.ru/employer/9622609",
-            "logo_urls": null,
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9622609",
-            "accredited_it_employer": false,
-            "trusted": false
-        },
-        "snippet": {
-            "requirement": "Информация отсутствует",
-            "responsibility": "Необходимо доставлять готовые заказы до клиента."
-        },
-        "contacts": null,
-        "schedule": {
-            "id": "flexible",
-            "name": "Гибкий график"
-        },
-        "working_days": [
-            {
-                "id": "only_saturday_and_sunday",
-                "name": "Работа только по сб и вс"
-            }
-        ],
-        "working_time_intervals": [
-            {
-                "id": "from_four_to_six_hours_in_a_day",
-                "name": "Можно работать сменами по 4–6 часов в день"
-            }
-        ],
-        "working_time_modes": [
-            {
-                "id": "start_after_sixteen",
-                "name": "Можно начинать работать после 16:00"
-            }
-        ],
-        "accept_temporary": true,
-        "professional_roles": [
-            {
-                "id": "58",
-                "name": "Курьер"
-            }
-        ],
-        "accept_incomplete_resumes": true,
-        "experience": {
-            "id": "noExperience",
-            "name": "Нет опыта"
-        },
-        "employment": {
-            "id": "part",
-            "name": "Частичная занятость"
-        },
-        "adv_response_url": null,
-        "is_adv_vacancy": false,
-        "adv_context": null
-    },
-    {
         "id": "104420197",
         "premium": false,
         "name": "Водитель-курьер",
@@ -3161,9 +3150,9 @@
         "adv_context": null
     },
     {
-        "id": "102209953",
-        "premium": false,
-        "name": "Водитель-курьер на личном легковом автомобиле",
+        "id": "104321754",
+        "premium": true,
+        "name": "Курьер (от 600-700р/час, подработка СРОЧНО, платим ежедневно)",
         "department": null,
         "has_test": false,
         "response_letter_required": false,
@@ -3173,8 +3162,8 @@
             "url": "https://api.hh.ru/areas/3"
         },
         "salary": {
-            "from": 120000,
-            "to": 126000,
+            "from": 140000,
+            "to": 150000,
             "currency": "RUR",
             "gross": false
         },
@@ -3185,46 +3174,57 @@
         "address": null,
         "response_url": null,
         "sort_point_distance": null,
-        "published_at": "2024-07-10T10:15:10+0300",
-        "created_at": "2024-07-10T10:15:10+0300",
+        "published_at": "2024-07-22T07:04:31+0300",
+        "created_at": "2024-07-22T07:04:31+0300",
         "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102209953",
-        "show_logo_in_search": null,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=104321754",
+        "show_logo_in_search": true,
         "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/102209953?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/102209953",
+        "url": "https://api.hh.ru/vacancies/104321754?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/104321754",
         "relations": [],
         "employer": {
-            "id": "81214",
-            "name": "ПартКом",
-            "url": "https://api.hh.ru/employers/81214",
-            "alternate_url": "https://hh.ru/employer/81214",
-            "logo_urls": {
-                "original": "https://img.hhcdn.ru/employer-logo-original/893703.png",
-                "90": "https://img.hhcdn.ru/employer-logo/4015499.png",
-                "240": "https://img.hhcdn.ru/employer-logo/4015500.png"
-            },
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=81214",
+            "id": "9622609",
+            "name": "Дудкина Дарья",
+            "url": "https://api.hh.ru/employers/9622609",
+            "alternate_url": "https://hh.ru/employer/9622609",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9622609",
             "accredited_it_employer": false,
-            "trusted": true
+            "trusted": false
         },
         "snippet": {
-            "requirement": "Наличие личного автомобиля и готовность его использовать. Наличие телефона на базе Android и готовность его использовать. Готовность к сотрудничеству в...",
-            "responsibility": "Доставлять запчасти для автомобилей клиентам на личном легковом авто по составленному маршруту одного из районов города (автосервисы, автомагазины, дилеры). "
+            "requirement": "Информация отсутствует",
+            "responsibility": "Необходимо доставлять готовые заказы до клиента."
         },
         "contacts": null,
         "schedule": {
-            "id": "fullDay",
-            "name": "Полный день"
+            "id": "flexible",
+            "name": "Гибкий график"
         },
-        "working_days": [],
-        "working_time_intervals": [],
-        "working_time_modes": [],
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "Работа только по сб и вс"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
         "accept_temporary": true,
         "professional_roles": [
             {
-                "id": "21",
-                "name": "Водитель"
+                "id": "58",
+                "name": "Курьер"
             }
         ],
         "accept_incomplete_resumes": true,
@@ -3233,8 +3233,8 @@
             "name": "Нет опыта"
         },
         "employment": {
-            "id": "full",
-            "name": "Полная занятость"
+            "id": "part",
+            "name": "Частичная занятость"
         },
         "adv_response_url": null,
         "is_adv_vacancy": false,
@@ -3351,101 +3351,6 @@
         "adv_context": null
     },
     {
-        "id": "103553497",
-        "premium": false,
-        "name": "Курьер без штрафов в Магнит (Подработка, Свободный график)",
-        "department": null,
-        "has_test": false,
-        "response_letter_required": false,
-        "area": {
-            "id": "3",
-            "name": "Екатеринбург",
-            "url": "https://api.hh.ru/areas/3"
-        },
-        "salary": {
-            "from": 95000,
-            "to": 165000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "type": {
-            "id": "open",
-            "name": "Открытая"
-        },
-        "address": null,
-        "response_url": null,
-        "sort_point_distance": null,
-        "published_at": "2024-07-09T08:07:07+0300",
-        "created_at": "2024-07-09T08:07:07+0300",
-        "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=103553497",
-        "show_logo_in_search": null,
-        "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/103553497?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/103553497",
-        "relations": [],
-        "employer": {
-            "id": "9594280",
-            "name": "Работа сегодня (ИП Холин Андрей Сергеевич)",
-            "url": "https://api.hh.ru/employers/9594280",
-            "alternate_url": "https://hh.ru/employer/9594280",
-            "logo_urls": {
-                "240": "https://img.hhcdn.ru/employer-logo/6777835.jpeg",
-                "90": "https://img.hhcdn.ru/employer-logo/6777834.jpeg",
-                "original": "https://img.hhcdn.ru/employer-logo-original/1289384.jpg"
-            },
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9594280",
-            "accredited_it_employer": false,
-            "trusted": true
-        },
-        "snippet": {
-            "requirement": "Опыт не важен. Качественное обучение на нашей стороне займет всего 10 минут. Действующий статус самозанятого или готовность его оформить (мы...",
-            "responsibility": "Необходимо устройство на базе Android (телефон или планшет)."
-        },
-        "contacts": null,
-        "schedule": {
-            "id": "flexible",
-            "name": "Гибкий график"
-        },
-        "working_days": [
-            {
-                "id": "only_saturday_and_sunday",
-                "name": "Работа только по сб и вс"
-            }
-        ],
-        "working_time_intervals": [
-            {
-                "id": "from_four_to_six_hours_in_a_day",
-                "name": "Можно работать сменами по 4–6 часов в день"
-            }
-        ],
-        "working_time_modes": [
-            {
-                "id": "start_after_sixteen",
-                "name": "Можно начинать работать после 16:00"
-            }
-        ],
-        "accept_temporary": true,
-        "professional_roles": [
-            {
-                "id": "58",
-                "name": "Курьер"
-            }
-        ],
-        "accept_incomplete_resumes": true,
-        "experience": {
-            "id": "noExperience",
-            "name": "Нет опыта"
-        },
-        "employment": {
-            "id": "part",
-            "name": "Частичная занятость"
-        },
-        "adv_response_url": null,
-        "is_adv_vacancy": false,
-        "adv_context": null
-    },
-    {
         "id": "103013830",
         "premium": false,
         "name": "Курьер лёгких заказов - подработка без графика, совмещение",
@@ -3507,6 +3412,101 @@
         "snippet": {
             "requirement": "Телефон (андройде или айос). Желание зарабатывать.",
             "responsibility": "Доставка небольших посылок. (товары для дома, интернет заказы рестораны, и т.д.) Время доставок вы выбираете самостоятельно -сами. "
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "flexible",
+            "name": "Гибкий график"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "Работа только по сб и вс"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "58",
+                "name": "Курьер"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "103553497",
+        "premium": false,
+        "name": "Курьер без штрафов в Магнит (Подработка, Свободный график)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+            "from": 95000,
+            "to": 165000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-07-09T08:07:07+0300",
+        "created_at": "2024-07-09T08:07:07+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=103553497",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/103553497?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/103553497",
+        "relations": [],
+        "employer": {
+            "id": "9594280",
+            "name": "Работа сегодня (ИП Холин Андрей Сергеевич)",
+            "url": "https://api.hh.ru/employers/9594280",
+            "alternate_url": "https://hh.ru/employer/9594280",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/6777835.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/6777834.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1289384.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9594280",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт не важен. Качественное обучение на нашей стороне займет всего 10 минут. Действующий статус самозанятого или готовность его оформить (мы...",
+            "responsibility": "Необходимо устройство на базе Android (телефон или планшет)."
         },
         "contacts": null,
         "schedule": {
@@ -3734,101 +3734,6 @@
         "adv_context": null
     },
     {
-        "id": "102975921",
-        "premium": false,
-        "name": "Курьер (цветы)",
-        "department": null,
-        "has_test": false,
-        "response_letter_required": false,
-        "area": {
-            "id": "3",
-            "name": "Екатеринбург",
-            "url": "https://api.hh.ru/areas/3"
-        },
-        "salary": {
-            "from": 75000,
-            "to": 110000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "type": {
-            "id": "open",
-            "name": "Открытая"
-        },
-        "address": null,
-        "response_url": null,
-        "sort_point_distance": null,
-        "published_at": "2024-07-23T20:56:20+0300",
-        "created_at": "2024-07-23T20:56:20+0300",
-        "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102975921",
-        "show_logo_in_search": null,
-        "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/102975921?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/102975921",
-        "relations": [],
-        "employer": {
-            "id": "2697051",
-            "name": "SKD-Доставка",
-            "url": "https://api.hh.ru/employers/2697051",
-            "alternate_url": "https://hh.ru/employer/2697051",
-            "logo_urls": {
-                "original": "https://img.hhcdn.ru/employer-logo-original/527605.jpg",
-                "240": "https://img.hhcdn.ru/employer-logo/2551898.jpeg",
-                "90": "https://img.hhcdn.ru/employer-logo/2551897.jpeg"
-            },
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2697051",
-            "accredited_it_employer": false,
-            "trusted": true
-        },
-        "snippet": {
-            "requirement": "Требуемый опыт работы: не требуется.",
-            "responsibility": "<highlighttext>Курьер</highlighttext> на доставку цветов. Все заказы оплачены (вам нужно только доставить из пункта A в пункт B (цветочный магазин - клиент)."
-        },
-        "contacts": null,
-        "schedule": {
-            "id": "flexible",
-            "name": "Гибкий график"
-        },
-        "working_days": [
-            {
-                "id": "only_saturday_and_sunday",
-                "name": "Работа только по сб и вс"
-            }
-        ],
-        "working_time_intervals": [
-            {
-                "id": "from_four_to_six_hours_in_a_day",
-                "name": "Можно работать сменами по 4–6 часов в день"
-            }
-        ],
-        "working_time_modes": [
-            {
-                "id": "start_after_sixteen",
-                "name": "Можно начинать работать после 16:00"
-            }
-        ],
-        "accept_temporary": false,
-        "professional_roles": [
-            {
-                "id": "58",
-                "name": "Курьер"
-            }
-        ],
-        "accept_incomplete_resumes": true,
-        "experience": {
-            "id": "noExperience",
-            "name": "Нет опыта"
-        },
-        "employment": {
-            "id": "full",
-            "name": "Полная занятость"
-        },
-        "adv_response_url": null,
-        "is_adv_vacancy": false,
-        "adv_context": null
-    },
-    {
         "id": "102906622",
         "premium": false,
         "name": "Водитель-курьер",
@@ -3918,6 +3823,101 @@
         "employment": {
             "id": "part",
             "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "102975921",
+        "premium": false,
+        "name": "Курьер (цветы)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+            "from": 75000,
+            "to": 110000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-07-23T20:56:20+0300",
+        "created_at": "2024-07-23T20:56:20+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102975921",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/102975921?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/102975921",
+        "relations": [],
+        "employer": {
+            "id": "2697051",
+            "name": "SKD-Доставка",
+            "url": "https://api.hh.ru/employers/2697051",
+            "alternate_url": "https://hh.ru/employer/2697051",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/527605.jpg",
+                "240": "https://img.hhcdn.ru/employer-logo/2551898.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/2551897.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2697051",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Требуемый опыт работы: не требуется.",
+            "responsibility": "<highlighttext>Курьер</highlighttext> на доставку цветов. Все заказы оплачены (вам нужно только доставить из пункта A в пункт B (цветочный магазин - клиент)."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "flexible",
+            "name": "Гибкий график"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "Работа только по сб и вс"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "58",
+                "name": "Курьер"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
         },
         "adv_response_url": null,
         "is_adv_vacancy": false,
@@ -4110,6 +4110,113 @@
         "adv_context": null
     },
     {
+        "id": "91729819",
+        "premium": false,
+        "name": "Водитель-курьер в \"Donna Olivia\"",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+            "from": 100000,
+            "to": 0,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Екатеринбург",
+            "street": "улица 8 Марта",
+            "building": "41",
+            "lat": 56.827956,
+            "lng": 60.602442,
+            "description": null,
+            "raw": "Екатеринбург, улица 8 Марта, 41",
+            "metro": {
+                "station_name": "Геологическая",
+                "line_name": "Север-Юг",
+                "station_id": "48.267",
+                "line_id": "48",
+                "lat": 56.826715,
+                "lng": 60.603754
+            },
+            "metro_stations": [
+                {
+                    "station_name": "Геологическая",
+                    "line_name": "Север-Юг",
+                    "station_id": "48.267",
+                    "line_id": "48",
+                    "lat": 56.826715,
+                    "lng": 60.603754
+                }
+            ],
+            "id": "1392057"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-07-11T15:42:22+0300",
+        "created_at": "2024-07-11T15:42:22+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=91729819",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/91729819?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/91729819",
+        "relations": [],
+        "employer": {
+            "id": "3107413",
+            "name": "Арт Ресторантс",
+            "url": "https://api.hh.ru/employers/3107413",
+            "alternate_url": "https://hh.ru/employer/3107413",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/6803990.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1295926.png",
+                "240": "https://img.hhcdn.ru/employer-logo/6803991.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3107413",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Водительские права категории В. Личный автомобиль. Доброжелательность, пунктуальность и ответственность.",
+            "responsibility": "Перемещение доставок ресторан-гость, ресторан-ресторан."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "58",
+                "name": "Курьер"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
         "id": "104146307",
         "premium": false,
         "name": "Курьер на подработку с ежедневными выплатами",
@@ -4250,113 +4357,6 @@
         "employment": {
             "id": "part",
             "name": "Частичная занятость"
-        },
-        "adv_response_url": null,
-        "is_adv_vacancy": false,
-        "adv_context": null
-    },
-    {
-        "id": "91729819",
-        "premium": false,
-        "name": "Водитель-курьер в \"Donna Olivia\"",
-        "department": null,
-        "has_test": false,
-        "response_letter_required": false,
-        "area": {
-            "id": "3",
-            "name": "Екатеринбург",
-            "url": "https://api.hh.ru/areas/3"
-        },
-        "salary": {
-            "from": 100000,
-            "to": 0,
-            "currency": "RUR",
-            "gross": false
-        },
-        "type": {
-            "id": "open",
-            "name": "Открытая"
-        },
-        "address": {
-            "city": "Екатеринбург",
-            "street": "улица 8 Марта",
-            "building": "41",
-            "lat": 56.827956,
-            "lng": 60.602442,
-            "description": null,
-            "raw": "Екатеринбург, улица 8 Марта, 41",
-            "metro": {
-                "station_name": "Геологическая",
-                "line_name": "Север-Юг",
-                "station_id": "48.267",
-                "line_id": "48",
-                "lat": 56.826715,
-                "lng": 60.603754
-            },
-            "metro_stations": [
-                {
-                    "station_name": "Геологическая",
-                    "line_name": "Север-Юг",
-                    "station_id": "48.267",
-                    "line_id": "48",
-                    "lat": 56.826715,
-                    "lng": 60.603754
-                }
-            ],
-            "id": "1392057"
-        },
-        "response_url": null,
-        "sort_point_distance": null,
-        "published_at": "2024-07-11T15:42:22+0300",
-        "created_at": "2024-07-11T15:42:22+0300",
-        "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=91729819",
-        "show_logo_in_search": null,
-        "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/91729819?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/91729819",
-        "relations": [],
-        "employer": {
-            "id": "3107413",
-            "name": "Арт Ресторантс",
-            "url": "https://api.hh.ru/employers/3107413",
-            "alternate_url": "https://hh.ru/employer/3107413",
-            "logo_urls": {
-                "90": "https://img.hhcdn.ru/employer-logo/6803990.png",
-                "original": "https://img.hhcdn.ru/employer-logo-original/1295926.png",
-                "240": "https://img.hhcdn.ru/employer-logo/6803991.png"
-            },
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3107413",
-            "accredited_it_employer": false,
-            "trusted": true
-        },
-        "snippet": {
-            "requirement": "Водительские права категории В. Личный автомобиль. Доброжелательность, пунктуальность и ответственность.",
-            "responsibility": "Перемещение доставок ресторан-гость, ресторан-ресторан."
-        },
-        "contacts": null,
-        "schedule": {
-            "id": "fullDay",
-            "name": "Полный день"
-        },
-        "working_days": [],
-        "working_time_intervals": [],
-        "working_time_modes": [],
-        "accept_temporary": false,
-        "professional_roles": [
-            {
-                "id": "58",
-                "name": "Курьер"
-            }
-        ],
-        "accept_incomplete_resumes": false,
-        "experience": {
-            "id": "noExperience",
-            "name": "Нет опыта"
-        },
-        "employment": {
-            "id": "full",
-            "name": "Полная занятость"
         },
         "adv_response_url": null,
         "is_adv_vacancy": false,
@@ -4644,6 +4644,91 @@
         "adv_context": null
     },
     {
+        "id": "103915508",
+        "premium": false,
+        "name": "Водитель-курьер на личном автомобиле",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+            "from": 24000,
+            "to": 0,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-07-15T14:09:59+0300",
+        "created_at": "2024-07-15T14:09:59+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=103915508",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/103915508?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/103915508",
+        "relations": [],
+        "employer": {
+            "id": "994725",
+            "name": "Трансойл-Групп",
+            "url": "https://api.hh.ru/employers/994725",
+            "alternate_url": "https://hh.ru/employer/994725",
+            "logo_urls": {
+                "240": "https://img.hhcdn.ru/employer-logo/6090814.png",
+                "90": "https://img.hhcdn.ru/employer-logo/6090813.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1117554.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=994725",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Готовность к разъездной работе. Стрессоустойчивость (нужно будет выстаивать очередь в почтовом отделении).",
+            "responsibility": "Отправка и получение почты, большой объём писем (2 раза в неделю). Поддерживать связь между офисами на Шувакише и Кузнецова (отвезти..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "flexible",
+            "name": "Гибкий график"
+        },
+        "working_days": [],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "58",
+                "name": "Курьер"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
         "id": "103927709",
         "premium": false,
         "name": "Водитель-курьер",
@@ -4814,90 +4899,6 @@
         "adv_context": null
     },
     {
-        "id": "102853175",
-        "premium": false,
-        "name": "Специалист голосовой поддержки курьеров",
-        "department": null,
-        "has_test": false,
-        "response_letter_required": false,
-        "area": {
-            "id": "3",
-            "name": "Екатеринбург",
-            "url": "https://api.hh.ru/areas/3"
-        },
-        "salary": {
-            "from": 40000,
-            "to": 55000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "type": {
-            "id": "open",
-            "name": "Открытая"
-        },
-        "address": null,
-        "response_url": null,
-        "sort_point_distance": null,
-        "published_at": "2024-06-27T13:59:33+0300",
-        "created_at": "2024-06-27T13:59:33+0300",
-        "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102853175",
-        "branding": {
-            "type": "MAKEUP",
-            "tariff": null
-        },
-        "show_logo_in_search": true,
-        "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/102853175?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/102853175",
-        "relations": [],
-        "employer": {
-            "id": "9498120",
-            "name": "Яндекс Команда для бизнеса",
-            "url": "https://api.hh.ru/employers/9498120",
-            "alternate_url": "https://hh.ru/employer/9498120",
-            "logo_urls": {
-                "original": "https://img.hhcdn.ru/employer-logo-original/1121425.jpg",
-                "90": "https://img.hhcdn.ru/employer-logo/6106293.jpeg",
-                "240": "https://img.hhcdn.ru/employer-logo/6106294.jpeg"
-            },
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9498120",
-            "accredited_it_employer": false,
-            "trusted": true
-        },
-        "snippet": {
-            "requirement": "Работать в специализированной программе.",
-            "responsibility": "Обрабатывать входящие голосовые обращения <highlighttext>курьеров</highlighttext>. — Помогать с решением вопросов касательно доставки (<highlighttext>курьер</highlighttext> не может найти точку доставки, связаться с получателем..."
-        },
-        "contacts": null,
-        "schedule": {
-            "id": "remote",
-            "name": "Удаленная работа"
-        },
-        "working_days": [],
-        "working_time_intervals": [],
-        "working_time_modes": [],
-        "accept_temporary": false,
-        "professional_roles": [
-            {
-                "id": "83",
-                "name": "Оператор call-центра, специалист контактного центра"
-            }
-        ],
-        "accept_incomplete_resumes": true,
-        "experience": {
-            "id": "noExperience",
-            "name": "Нет опыта"
-        },
-        "employment": {
-            "id": "full",
-            "name": "Полная занятость"
-        },
-        "adv_response_url": null,
-        "is_adv_vacancy": false,
-        "adv_context": null
-    },
-    {
         "id": "103651458",
         "premium": false,
         "name": "Водитель-курьер на личном автомобиле",
@@ -4989,9 +4990,9 @@
         "adv_context": null
     },
     {
-        "id": "103915508",
+        "id": "102853175",
         "premium": false,
-        "name": "Водитель-курьер на личном автомобиле",
+        "name": "Специалист голосовой поддержки курьеров",
         "department": null,
         "has_test": false,
         "response_letter_required": false,
@@ -5001,10 +5002,10 @@
             "url": "https://api.hh.ru/areas/3"
         },
         "salary": {
-            "from": 24000,
-            "to": 0,
+            "from": 40000,
+            "to": 55000,
             "currency": "RUR",
-            "gross": false
+            "gross": true
         },
         "type": {
             "id": "open",
@@ -5013,51 +5014,50 @@
         "address": null,
         "response_url": null,
         "sort_point_distance": null,
-        "published_at": "2024-07-15T14:09:59+0300",
-        "created_at": "2024-07-15T14:09:59+0300",
+        "published_at": "2024-06-27T13:59:33+0300",
+        "created_at": "2024-06-27T13:59:33+0300",
         "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=103915508",
-        "show_logo_in_search": null,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102853175",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
         "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/103915508?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/103915508",
+        "url": "https://api.hh.ru/vacancies/102853175?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/102853175",
         "relations": [],
         "employer": {
-            "id": "994725",
-            "name": "Трансойл-Групп",
-            "url": "https://api.hh.ru/employers/994725",
-            "alternate_url": "https://hh.ru/employer/994725",
+            "id": "9498120",
+            "name": "Яндекс Команда для бизнеса",
+            "url": "https://api.hh.ru/employers/9498120",
+            "alternate_url": "https://hh.ru/employer/9498120",
             "logo_urls": {
-                "240": "https://img.hhcdn.ru/employer-logo/6090814.png",
-                "90": "https://img.hhcdn.ru/employer-logo/6090813.png",
-                "original": "https://img.hhcdn.ru/employer-logo-original/1117554.png"
+                "original": "https://img.hhcdn.ru/employer-logo-original/1121425.jpg",
+                "90": "https://img.hhcdn.ru/employer-logo/6106293.jpeg",
+                "240": "https://img.hhcdn.ru/employer-logo/6106294.jpeg"
             },
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=994725",
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9498120",
             "accredited_it_employer": false,
             "trusted": true
         },
         "snippet": {
-            "requirement": "Готовность к разъездной работе. Стрессоустойчивость (нужно будет выстаивать очередь в почтовом отделении).",
-            "responsibility": "Отправка и получение почты, большой объём писем (2 раза в неделю). Поддерживать связь между офисами на Шувакише и Кузнецова (отвезти..."
+            "requirement": "Работать в специализированной программе.",
+            "responsibility": "Обрабатывать входящие голосовые обращения <highlighttext>курьеров</highlighttext>. — Помогать с решением вопросов касательно доставки (<highlighttext>курьер</highlighttext> не может найти точку доставки, связаться с получателем..."
         },
         "contacts": null,
         "schedule": {
-            "id": "flexible",
-            "name": "Гибкий график"
+            "id": "remote",
+            "name": "Удаленная работа"
         },
         "working_days": [],
-        "working_time_intervals": [
-            {
-                "id": "from_four_to_six_hours_in_a_day",
-                "name": "Можно работать сменами по 4–6 часов в день"
-            }
-        ],
+        "working_time_intervals": [],
         "working_time_modes": [],
         "accept_temporary": false,
         "professional_roles": [
             {
-                "id": "58",
-                "name": "Курьер"
+                "id": "83",
+                "name": "Оператор call-центра, специалист контактного центра"
             }
         ],
         "accept_incomplete_resumes": true,
@@ -5066,8 +5066,8 @@
             "name": "Нет опыта"
         },
         "employment": {
-            "id": "part",
-            "name": "Частичная занятость"
+            "id": "full",
+            "name": "Полная занятость"
         },
         "adv_response_url": null,
         "is_adv_vacancy": false,
@@ -5291,6 +5291,207 @@
         "adv_context": null
     },
     {
+        "id": "104145148",
+        "premium": false,
+        "name": "Водитель-курьер на автомобиле компании (Ларгус)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+            "from": 0,
+            "to": 102000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Екатеринбург",
+            "street": "ЕКАД, 5-й километр",
+            "building": "6/14",
+            "lat": 56.755546,
+            "lng": 60.763339,
+            "description": null,
+            "raw": "Екатеринбург, ЕКАД, 5-й километр, 6/14",
+            "metro": null,
+            "metro_stations": [],
+            "id": "5036437"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-07-23T10:41:07+0300",
+        "created_at": "2024-07-23T10:41:07+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=104145148",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/104145148?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/104145148",
+        "relations": [],
+        "employer": {
+            "id": "4232036",
+            "name": "СберЛогистика",
+            "url": "https://api.hh.ru/employers/4232036",
+            "alternate_url": "https://hh.ru/employer/4232036",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/779423.png",
+                "240": "https://img.hhcdn.ru/employer-logo/3558584.png",
+                "90": "https://img.hhcdn.ru/employer-logo/3558583.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4232036",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Стаж вождения от 2-х лет. Наличие телефона на базе Android. Готовы к сотрудничеству в статусе самозанятого/ИП.",
+            "responsibility": "Доставлять заказы клиентам на автомобиле компании. Оформлять сопроводительную документацию при передаче заказа. Осуществлять денежные расчеты с клиентами наличной/безналичной оплатой..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "58",
+                "name": "Курьер"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "90837527",
+        "premium": false,
+        "name": "Расклейщик объявлений (подработка)/Пеший курьер/ежедневные выплаты",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+            "from": 25000,
+            "to": 75000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "муниципальное образование Екатеринбург",
+            "street": "Железнодорожный район",
+            "building": null,
+            "lat": 56.867528,
+            "lng": 60.532284,
+            "description": null,
+            "raw": "муниципальное образование Екатеринбург, Железнодорожный район",
+            "metro": null,
+            "metro_stations": [],
+            "id": "15536954"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-07-22T14:18:32+0300",
+        "created_at": "2024-07-22T14:18:32+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90837527",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90837527?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90837527",
+        "relations": [],
+        "employer": {
+            "id": "10067401",
+            "name": "Orange",
+            "url": "https://api.hh.ru/employers/10067401",
+            "alternate_url": "https://hh.ru/employer/10067401",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1129147.png",
+                "90": "https://img.hhcdn.ru/employer-logo/6137177.png",
+                "240": "https://img.hhcdn.ru/employer-logo/6137178.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10067401",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Быть ответственным. Быть мобильным и энергичным.",
+            "responsibility": "Распространение визиток, листовок по почтовым ящикам."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "flexible",
+            "name": "Гибкий график"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "Работа только по сб и вс"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "99",
+                "name": "Промоутер"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
         "id": "103431819",
         "premium": false,
         "name": "Курьер",
@@ -5437,112 +5638,6 @@
         "adv_context": null
     },
     {
-        "id": "90837527",
-        "premium": false,
-        "name": "Расклейщик объявлений (подработка)/Пеший курьер/ежедневные выплаты",
-        "department": null,
-        "has_test": false,
-        "response_letter_required": false,
-        "area": {
-            "id": "3",
-            "name": "Екатеринбург",
-            "url": "https://api.hh.ru/areas/3"
-        },
-        "salary": {
-            "from": 25000,
-            "to": 75000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "type": {
-            "id": "open",
-            "name": "Открытая"
-        },
-        "address": {
-            "city": "муниципальное образование Екатеринбург",
-            "street": "Железнодорожный район",
-            "building": null,
-            "lat": 56.867528,
-            "lng": 60.532284,
-            "description": null,
-            "raw": "муниципальное образование Екатеринбург, Железнодорожный район",
-            "metro": null,
-            "metro_stations": [],
-            "id": "15536954"
-        },
-        "response_url": null,
-        "sort_point_distance": null,
-        "published_at": "2024-07-22T14:18:32+0300",
-        "created_at": "2024-07-22T14:18:32+0300",
-        "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90837527",
-        "show_logo_in_search": null,
-        "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/90837527?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/90837527",
-        "relations": [],
-        "employer": {
-            "id": "10067401",
-            "name": "Orange",
-            "url": "https://api.hh.ru/employers/10067401",
-            "alternate_url": "https://hh.ru/employer/10067401",
-            "logo_urls": {
-                "original": "https://img.hhcdn.ru/employer-logo-original/1129147.png",
-                "90": "https://img.hhcdn.ru/employer-logo/6137177.png",
-                "240": "https://img.hhcdn.ru/employer-logo/6137178.png"
-            },
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10067401",
-            "accredited_it_employer": false,
-            "trusted": true
-        },
-        "snippet": {
-            "requirement": "Быть ответственным. Быть мобильным и энергичным.",
-            "responsibility": "Распространение визиток, листовок по почтовым ящикам."
-        },
-        "contacts": null,
-        "schedule": {
-            "id": "flexible",
-            "name": "Гибкий график"
-        },
-        "working_days": [
-            {
-                "id": "only_saturday_and_sunday",
-                "name": "Работа только по сб и вс"
-            }
-        ],
-        "working_time_intervals": [
-            {
-                "id": "from_four_to_six_hours_in_a_day",
-                "name": "Можно работать сменами по 4–6 часов в день"
-            }
-        ],
-        "working_time_modes": [
-            {
-                "id": "start_after_sixteen",
-                "name": "Можно начинать работать после 16:00"
-            }
-        ],
-        "accept_temporary": true,
-        "professional_roles": [
-            {
-                "id": "99",
-                "name": "Промоутер"
-            }
-        ],
-        "accept_incomplete_resumes": true,
-        "experience": {
-            "id": "noExperience",
-            "name": "Нет опыта"
-        },
-        "employment": {
-            "id": "part",
-            "name": "Частичная занятость"
-        },
-        "adv_response_url": null,
-        "is_adv_vacancy": false,
-        "adv_context": null
-    },
-    {
         "id": "98262490",
         "premium": false,
         "name": "Водитель-курьер на автомобиле компании",
@@ -5614,101 +5709,6 @@
         "working_time_intervals": [],
         "working_time_modes": [],
         "accept_temporary": false,
-        "professional_roles": [
-            {
-                "id": "58",
-                "name": "Курьер"
-            }
-        ],
-        "accept_incomplete_resumes": true,
-        "experience": {
-            "id": "noExperience",
-            "name": "Нет опыта"
-        },
-        "employment": {
-            "id": "full",
-            "name": "Полная занятость"
-        },
-        "adv_response_url": null,
-        "is_adv_vacancy": false,
-        "adv_context": null
-    },
-    {
-        "id": "104145148",
-        "premium": false,
-        "name": "Водитель-курьер на автомобиле компании (Ларгус)",
-        "department": null,
-        "has_test": false,
-        "response_letter_required": false,
-        "area": {
-            "id": "3",
-            "name": "Екатеринбург",
-            "url": "https://api.hh.ru/areas/3"
-        },
-        "salary": {
-            "from": 0,
-            "to": 102000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "type": {
-            "id": "open",
-            "name": "Открытая"
-        },
-        "address": {
-            "city": "Екатеринбург",
-            "street": "ЕКАД, 5-й километр",
-            "building": "6/14",
-            "lat": 56.755546,
-            "lng": 60.763339,
-            "description": null,
-            "raw": "Екатеринбург, ЕКАД, 5-й километр, 6/14",
-            "metro": null,
-            "metro_stations": [],
-            "id": "5036437"
-        },
-        "response_url": null,
-        "sort_point_distance": null,
-        "published_at": "2024-07-23T10:41:07+0300",
-        "created_at": "2024-07-23T10:41:07+0300",
-        "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=104145148",
-        "branding": {
-            "type": "MAKEUP",
-            "tariff": null
-        },
-        "show_logo_in_search": true,
-        "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/104145148?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/104145148",
-        "relations": [],
-        "employer": {
-            "id": "4232036",
-            "name": "СберЛогистика",
-            "url": "https://api.hh.ru/employers/4232036",
-            "alternate_url": "https://hh.ru/employer/4232036",
-            "logo_urls": {
-                "original": "https://img.hhcdn.ru/employer-logo-original/779423.png",
-                "240": "https://img.hhcdn.ru/employer-logo/3558584.png",
-                "90": "https://img.hhcdn.ru/employer-logo/3558583.png"
-            },
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4232036",
-            "accredited_it_employer": false,
-            "trusted": true
-        },
-        "snippet": {
-            "requirement": "Стаж вождения от 2-х лет. Наличие телефона на базе Android. Готовы к сотрудничеству в статусе самозанятого/ИП.",
-            "responsibility": "Доставлять заказы клиентам на автомобиле компании. Оформлять сопроводительную документацию при передаче заказа. Осуществлять денежные расчеты с клиентами наличной/безналичной оплатой..."
-        },
-        "contacts": null,
-        "schedule": {
-            "id": "fullDay",
-            "name": "Полный день"
-        },
-        "working_days": [],
-        "working_time_intervals": [],
-        "working_time_modes": [],
-        "accept_temporary": true,
         "professional_roles": [
             {
                 "id": "58",
@@ -6053,6 +6053,133 @@
         "adv_context": null
     },
     {
+        "id": "103980743",
+        "premium": false,
+        "name": "Водитель-курьер на личном автомобиле ( ул. Блюхера, д.39 ТЦ Апельсин)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+            "from": 70000,
+            "to": 0,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Екатеринбург",
+            "street": "улица Блюхера",
+            "building": "39",
+            "lat": 56.852381,
+            "lng": 60.640576,
+            "description": null,
+            "raw": "Екатеринбург, улица Блюхера, 39",
+            "metro": {
+                "station_name": "Динамо",
+                "line_name": "Север-Юг",
+                "station_id": "48.265",
+                "line_id": "48",
+                "lat": 56.847818,
+                "lng": 60.599406
+            },
+            "metro_stations": [
+                {
+                    "station_name": "Динамо",
+                    "line_name": "Север-Юг",
+                    "station_id": "48.265",
+                    "line_id": "48",
+                    "lat": 56.847818,
+                    "lng": 60.599406
+                },
+                {
+                    "station_name": "Площадь 1905 года",
+                    "line_name": "Север-Юг",
+                    "station_id": "48.266",
+                    "line_id": "48",
+                    "lat": 56.837982,
+                    "lng": 60.59734
+                },
+                {
+                    "station_name": "Уральская",
+                    "line_name": "Север-Юг",
+                    "station_id": "48.264",
+                    "line_id": "48",
+                    "lat": 56.858056,
+                    "lng": 60.600816
+                }
+            ],
+            "id": "5563452"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-07-24T15:54:27+0300",
+        "created_at": "2024-07-24T15:54:27+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=103980743",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/103980743?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/103980743",
+        "relations": [],
+        "employer": {
+            "id": "23712",
+            "name": "Четыре Лапы",
+            "url": "https://api.hh.ru/employers/23712",
+            "alternate_url": "https://hh.ru/employer/23712",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1032804.jpg",
+                "240": "https://img.hhcdn.ru/employer-logo/5751977.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/5751976.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23712",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Водительские права категории B .",
+            "responsibility": "Доставлять товары из магазинов Четыре Лапы покупателям до квартиры . Доставка заказов из магазина до адреса покупателя . Осуществление наличного и безналичного..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "shift",
+            "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "58",
+                "name": "Курьер"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
         "id": "103471710",
         "premium": false,
         "name": "Курьер (Екатеринбург)",
@@ -6211,6 +6338,97 @@
         "employment": {
             "id": "part",
             "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "103903720",
+        "premium": false,
+        "name": "Водитель-курьер на личном автомобиле",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+            "from": 70000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Екатеринбург",
+            "street": "улица Белинского",
+            "building": "173",
+            "lat": 56.798221,
+            "lng": 60.633659,
+            "description": null,
+            "raw": "Екатеринбург, улица Белинского, 173",
+            "metro": null,
+            "metro_stations": [],
+            "id": "4411071"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-07-17T14:00:12+0300",
+        "created_at": "2024-07-17T14:00:12+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=103903720",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/103903720?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/103903720",
+        "relations": [],
+        "employer": {
+            "id": "4741524",
+            "name": "Лаборатория Ремонта",
+            "url": "https://api.hh.ru/employers/4741524",
+            "alternate_url": "https://hh.ru/employer/4741524",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/785637.jpg",
+                "240": "https://img.hhcdn.ru/employer-logo/3583440.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/3583439.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4741524",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Наличие прав категории В и личного автомобиля с возможностью работать на нем. Знание города или наличие навигатора. Ответственность.",
+            "responsibility": "Доставка техники от сервисного центра к клиенту и от клиента в сервисный центр. Закупка запчастей. Работа по всему городу."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "58",
+                "name": "Курьер"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
         },
         "adv_response_url": null,
         "is_adv_vacancy": false,
@@ -6448,213 +6666,6 @@
         "adv_context": null
     },
     {
-        "id": "103980743",
-        "premium": false,
-        "name": "Водитель-курьер на личном автомобиле ( ул. Блюхера, д.39 ТЦ Апельсин)",
-        "department": null,
-        "has_test": false,
-        "response_letter_required": false,
-        "area": {
-            "id": "3",
-            "name": "Екатеринбург",
-            "url": "https://api.hh.ru/areas/3"
-        },
-        "salary": {
-            "from": 70000,
-            "to": 0,
-            "currency": "RUR",
-            "gross": false
-        },
-        "type": {
-            "id": "open",
-            "name": "Открытая"
-        },
-        "address": {
-            "city": "Екатеринбург",
-            "street": "улица Блюхера",
-            "building": "39",
-            "lat": 56.852381,
-            "lng": 60.640576,
-            "description": null,
-            "raw": "Екатеринбург, улица Блюхера, 39",
-            "metro": {
-                "station_name": "Динамо",
-                "line_name": "Север-Юг",
-                "station_id": "48.265",
-                "line_id": "48",
-                "lat": 56.847818,
-                "lng": 60.599406
-            },
-            "metro_stations": [
-                {
-                    "station_name": "Динамо",
-                    "line_name": "Север-Юг",
-                    "station_id": "48.265",
-                    "line_id": "48",
-                    "lat": 56.847818,
-                    "lng": 60.599406
-                },
-                {
-                    "station_name": "Площадь 1905 года",
-                    "line_name": "Север-Юг",
-                    "station_id": "48.266",
-                    "line_id": "48",
-                    "lat": 56.837982,
-                    "lng": 60.59734
-                },
-                {
-                    "station_name": "Уральская",
-                    "line_name": "Север-Юг",
-                    "station_id": "48.264",
-                    "line_id": "48",
-                    "lat": 56.858056,
-                    "lng": 60.600816
-                }
-            ],
-            "id": "5563452"
-        },
-        "response_url": null,
-        "sort_point_distance": null,
-        "published_at": "2024-07-24T15:54:27+0300",
-        "created_at": "2024-07-24T15:54:27+0300",
-        "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=103980743",
-        "branding": {
-            "type": "MAKEUP",
-            "tariff": null
-        },
-        "show_logo_in_search": true,
-        "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/103980743?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/103980743",
-        "relations": [],
-        "employer": {
-            "id": "23712",
-            "name": "Четыре Лапы",
-            "url": "https://api.hh.ru/employers/23712",
-            "alternate_url": "https://hh.ru/employer/23712",
-            "logo_urls": {
-                "original": "https://img.hhcdn.ru/employer-logo-original/1032804.jpg",
-                "240": "https://img.hhcdn.ru/employer-logo/5751977.jpeg",
-                "90": "https://img.hhcdn.ru/employer-logo/5751976.jpeg"
-            },
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23712",
-            "accredited_it_employer": false,
-            "trusted": true
-        },
-        "snippet": {
-            "requirement": "Водительские права категории B .",
-            "responsibility": "Доставлять товары из магазинов Четыре Лапы покупателям до квартиры . Доставка заказов из магазина до адреса покупателя . Осуществление наличного и безналичного..."
-        },
-        "contacts": null,
-        "schedule": {
-            "id": "shift",
-            "name": "Сменный график"
-        },
-        "working_days": [],
-        "working_time_intervals": [],
-        "working_time_modes": [],
-        "accept_temporary": true,
-        "professional_roles": [
-            {
-                "id": "58",
-                "name": "Курьер"
-            }
-        ],
-        "accept_incomplete_resumes": true,
-        "experience": {
-            "id": "noExperience",
-            "name": "Нет опыта"
-        },
-        "employment": {
-            "id": "full",
-            "name": "Полная занятость"
-        },
-        "adv_response_url": null,
-        "is_adv_vacancy": false,
-        "adv_context": null
-    },
-    {
-        "id": "101114072",
-        "premium": false,
-        "name": "Водитель-курьер на личном автомобиле",
-        "department": null,
-        "has_test": false,
-        "response_letter_required": false,
-        "area": {
-            "id": "3",
-            "name": "Екатеринбург",
-            "url": "https://api.hh.ru/areas/3"
-        },
-        "salary": {
-            "from": 80000,
-            "to": 0,
-            "currency": "RUR",
-            "gross": false
-        },
-        "type": {
-            "id": "open",
-            "name": "Открытая"
-        },
-        "address": null,
-        "response_url": null,
-        "sort_point_distance": null,
-        "published_at": "2024-07-02T12:03:49+0300",
-        "created_at": "2024-07-02T12:03:49+0300",
-        "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101114072",
-        "show_logo_in_search": null,
-        "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/101114072?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/101114072",
-        "relations": [],
-        "employer": {
-            "id": "2021807",
-            "name": "Суши Мастер",
-            "url": "https://api.hh.ru/employers/2021807",
-            "alternate_url": "https://hh.ru/employer/2021807",
-            "logo_urls": {
-                "90": "https://img.hhcdn.ru/employer-logo/6772182.png",
-                "original": "https://img.hhcdn.ru/employer-logo-original/1287971.png",
-                "240": "https://img.hhcdn.ru/employer-logo/6772183.png"
-            },
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2021807",
-            "accredited_it_employer": false,
-            "trusted": true
-        },
-        "snippet": {
-            "requirement": "Информация отсутствует",
-            "responsibility": null
-        },
-        "contacts": null,
-        "schedule": {
-            "id": "fullDay",
-            "name": "Полный день"
-        },
-        "working_days": [],
-        "working_time_intervals": [],
-        "working_time_modes": [],
-        "accept_temporary": true,
-        "professional_roles": [
-            {
-                "id": "58",
-                "name": "Курьер"
-            }
-        ],
-        "accept_incomplete_resumes": true,
-        "experience": {
-            "id": "noExperience",
-            "name": "Нет опыта"
-        },
-        "employment": {
-            "id": "full",
-            "name": "Полная занятость"
-        },
-        "adv_response_url": null,
-        "is_adv_vacancy": false,
-        "adv_context": null
-    },
-    {
         "id": "103525624",
         "premium": false,
         "name": "Водитель-курьер",
@@ -6764,9 +6775,9 @@
         "adv_context": null
     },
     {
-        "id": "99279316",
+        "id": "101114072",
         "premium": false,
-        "name": "Курьер на электровелосипеде",
+        "name": "Водитель-курьер на личном автомобиле",
         "department": null,
         "has_test": false,
         "response_letter_required": false,
@@ -6776,7 +6787,7 @@
             "url": "https://api.hh.ru/areas/3"
         },
         "salary": {
-            "from": 100000,
+            "from": 80000,
             "to": 0,
             "currency": "RUR",
             "gross": false
@@ -6785,85 +6796,59 @@
             "id": "open",
             "name": "Открытая"
         },
-        "address": {
-            "city": "Екатеринбург",
-            "street": "Хрустальногорская улица",
-            "building": "93",
-            "lat": 56.795323,
-            "lng": 60.500879,
-            "description": null,
-            "raw": "Екатеринбург, Хрустальногорская улица, 93",
-            "metro": null,
-            "metro_stations": [],
-            "id": "13569532"
-        },
+        "address": null,
         "response_url": null,
         "sort_point_distance": null,
-        "published_at": "2024-07-24T10:52:48+0300",
-        "created_at": "2024-07-24T10:52:48+0300",
+        "published_at": "2024-07-02T12:03:49+0300",
+        "created_at": "2024-07-02T12:03:49+0300",
         "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=99279316",
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101114072",
         "show_logo_in_search": null,
         "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/99279316?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/99279316",
+        "url": "https://api.hh.ru/vacancies/101114072?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/101114072",
         "relations": [],
         "employer": {
-            "id": "1041691",
-            "name": "HelpResource",
-            "url": "https://api.hh.ru/employers/1041691",
-            "alternate_url": "https://hh.ru/employer/1041691",
+            "id": "2021807",
+            "name": "Суши Мастер",
+            "url": "https://api.hh.ru/employers/2021807",
+            "alternate_url": "https://hh.ru/employer/2021807",
             "logo_urls": {
-                "original": "https://img.hhcdn.ru/employer-logo-original/997043.jpg",
-                "90": "https://img.hhcdn.ru/employer-logo/5608968.jpeg",
-                "240": "https://img.hhcdn.ru/employer-logo/5608969.jpeg"
+                "90": "https://img.hhcdn.ru/employer-logo/6772182.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1287971.png",
+                "240": "https://img.hhcdn.ru/employer-logo/6772183.png"
             },
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1041691",
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2021807",
             "accredited_it_employer": false,
             "trusted": true
         },
         "snippet": {
-            "requirement": "Иметь в наличии смартфон. - Готовность к физической нагрузке.",
-            "responsibility": "Доставлять продукты из центра формирования заказов до двери клиента."
+            "requirement": "Информация отсутствует",
+            "responsibility": null
         },
         "contacts": null,
         "schedule": {
-            "id": "shift",
-            "name": "Сменный график"
+            "id": "fullDay",
+            "name": "Полный день"
         },
-        "working_days": [
-            {
-                "id": "only_saturday_and_sunday",
-                "name": "Работа только по сб и вс"
-            }
-        ],
-        "working_time_intervals": [
-            {
-                "id": "from_four_to_six_hours_in_a_day",
-                "name": "Можно работать сменами по 4–6 часов в день"
-            }
-        ],
-        "working_time_modes": [
-            {
-                "id": "start_after_sixteen",
-                "name": "Можно начинать работать после 16:00"
-            }
-        ],
-        "accept_temporary": false,
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
         "professional_roles": [
             {
                 "id": "58",
                 "name": "Курьер"
             }
         ],
-        "accept_incomplete_resumes": false,
+        "accept_incomplete_resumes": true,
         "experience": {
             "id": "noExperience",
             "name": "Нет опыта"
         },
         "employment": {
-            "id": "part",
-            "name": "Частичная занятость"
+            "id": "full",
+            "name": "Полная занятость"
         },
         "adv_response_url": null,
         "is_adv_vacancy": false,
@@ -7083,9 +7068,9 @@
         "adv_context": null
     },
     {
-        "id": "103903720",
+        "id": "102640967",
         "premium": false,
-        "name": "Водитель-курьер на личном автомобиле",
+        "name": "Водитель-курьер на своём автомобиле",
         "department": null,
         "has_test": false,
         "response_letter_required": false,
@@ -7095,8 +7080,98 @@
             "url": "https://api.hh.ru/areas/3"
         },
         "salary": {
-            "from": 70000,
-            "to": 100000,
+            "from": 85000,
+            "to": 141000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-06-25T07:10:05+0300",
+        "created_at": "2024-06-25T07:10:05+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102640967",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/102640967?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/102640967",
+        "relations": [],
+        "employer": {
+            "id": "2198765",
+            "name": "Квазар",
+            "url": "https://api.hh.ru/employers/2198765",
+            "alternate_url": "https://hh.ru/employer/2198765",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/1042608.png",
+                "240": "https://img.hhcdn.ru/employer-logo/5791189.png",
+                "90": "https://img.hhcdn.ru/employer-logo/5791188.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2198765",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Требования: - Водительское удостоверение категории B; Знание города и умение использовать навигационные системы; - Ответственность и внимательность к деталям; - Готовность работать в...",
+            "responsibility": null
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "flexible",
+            "name": "Гибкий график"
+        },
+        "working_days": [],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "21",
+                "name": "Водитель"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "99279316",
+        "premium": false,
+        "name": "Курьер на электровелосипеде",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+            "from": 100000,
+            "to": 0,
             "currency": "RUR",
             "gross": false
         },
@@ -7106,44 +7181,139 @@
         },
         "address": {
             "city": "Екатеринбург",
-            "street": "улица Белинского",
-            "building": "173",
-            "lat": 56.798221,
-            "lng": 60.633659,
+            "street": "Хрустальногорская улица",
+            "building": "93",
+            "lat": 56.795323,
+            "lng": 60.500879,
             "description": null,
-            "raw": "Екатеринбург, улица Белинского, 173",
+            "raw": "Екатеринбург, Хрустальногорская улица, 93",
             "metro": null,
             "metro_stations": [],
-            "id": "4411071"
+            "id": "13569532"
         },
         "response_url": null,
         "sort_point_distance": null,
-        "published_at": "2024-07-17T14:00:12+0300",
-        "created_at": "2024-07-17T14:00:12+0300",
+        "published_at": "2024-07-24T10:52:48+0300",
+        "created_at": "2024-07-24T10:52:48+0300",
         "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=103903720",
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=99279316",
         "show_logo_in_search": null,
         "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/103903720?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/103903720",
+        "url": "https://api.hh.ru/vacancies/99279316?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/99279316",
         "relations": [],
         "employer": {
-            "id": "4741524",
-            "name": "Лаборатория Ремонта",
-            "url": "https://api.hh.ru/employers/4741524",
-            "alternate_url": "https://hh.ru/employer/4741524",
+            "id": "1041691",
+            "name": "HelpResource",
+            "url": "https://api.hh.ru/employers/1041691",
+            "alternate_url": "https://hh.ru/employer/1041691",
             "logo_urls": {
-                "original": "https://img.hhcdn.ru/employer-logo-original/785637.jpg",
-                "240": "https://img.hhcdn.ru/employer-logo/3583440.jpeg",
-                "90": "https://img.hhcdn.ru/employer-logo/3583439.jpeg"
+                "original": "https://img.hhcdn.ru/employer-logo-original/997043.jpg",
+                "90": "https://img.hhcdn.ru/employer-logo/5608968.jpeg",
+                "240": "https://img.hhcdn.ru/employer-logo/5608969.jpeg"
             },
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4741524",
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1041691",
             "accredited_it_employer": false,
             "trusted": true
         },
         "snippet": {
-            "requirement": "Наличие прав категории В и личного автомобиля с возможностью работать на нем. Знание города или наличие навигатора. Ответственность.",
-            "responsibility": "Доставка техники от сервисного центра к клиенту и от клиента в сервисный центр. Закупка запчастей. Работа по всему городу."
+            "requirement": "Иметь в наличии смартфон. - Готовность к физической нагрузке.",
+            "responsibility": "Доставлять продукты из центра формирования заказов до двери клиента."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "shift",
+            "name": "Сменный график"
+        },
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "Работа только по сб и вс"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "58",
+                "name": "Курьер"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "94820015",
+        "premium": false,
+        "name": "Водитель-курьер на личном автомобиле (г. Екатеринбург)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+            "from": 85000,
+            "to": 0,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-07-16T10:07:20+0300",
+        "created_at": "2024-07-16T10:07:20+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=94820015",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/94820015?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/94820015",
+        "relations": [],
+        "employer": {
+            "id": "17488",
+            "name": "ЛАБИРИНТ",
+            "url": "https://api.hh.ru/employers/17488",
+            "alternate_url": "https://hh.ru/employer/17488",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/228439.gif",
+                "90": "https://img.hhcdn.ru/employer-logo/313184.png",
+                "240": "https://img.hhcdn.ru/employer-logo/386041.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=17488",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Образование не ниже среднего. Водительское удостоверение категории В, наличие медицинской справки о допуске к управлению ТС, личный автомобиль, готовность использовать...",
+            "responsibility": "Доставка интернет-заказов по г. Екатеринбургу."
         },
         "contacts": null,
         "schedule": {
@@ -7164,6 +7334,104 @@
         "experience": {
             "id": "noExperience",
             "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "103480142",
+        "premium": false,
+        "name": "Водитель-курьер",
+        "department": {
+            "id": "tsum-52389-pvz",
+            "name": "ПВЗ"
+        },
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+            "from": 115805,
+            "to": 0,
+            "currency": "RUR",
+            "gross": true
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Екатеринбург",
+            "street": "улица Бориса Ельцина",
+            "building": "3",
+            "lat": 56.844894,
+            "lng": 60.591438,
+            "description": null,
+            "raw": "Екатеринбург, улица Бориса Ельцина, 3",
+            "metro": null,
+            "metro_stations": [],
+            "id": "7082339"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-07-23T17:28:08+0300",
+        "created_at": "2024-07-23T17:28:08+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=103480142",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/103480142?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/103480142",
+        "relations": [],
+        "employer": {
+            "id": "52389",
+            "name": "ЦУМ, ТД",
+            "url": "https://api.hh.ru/employers/52389",
+            "alternate_url": "https://hh.ru/employer/52389",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/901928.png",
+                "90": "https://img.hhcdn.ru/employer-logo/4048399.png",
+                "240": "https://img.hhcdn.ru/employer-logo/4048400.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=52389",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Опыт работы в интернет-магазинах. Уверенный пользователь ПК, а также мобильных устройств, мессенджеров. Опыт вождения от 3-х лет. ",
+            "responsibility": "Доставлять заказы покупателям на автомобиле компании (одежда/обувь/аксессуары класса Luxe). Предоставлять качественный сервис согласно стандартов компании (информация о товаре..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "shift",
+            "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "58",
+                "name": "Курьер"
+            }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
         },
         "employment": {
             "id": "full",
@@ -7290,104 +7558,6 @@
         "employment": {
             "id": "part",
             "name": "Частичная занятость"
-        },
-        "adv_response_url": null,
-        "is_adv_vacancy": false,
-        "adv_context": null
-    },
-    {
-        "id": "103480142",
-        "premium": false,
-        "name": "Водитель-курьер",
-        "department": {
-            "id": "tsum-52389-pvz",
-            "name": "ПВЗ"
-        },
-        "has_test": false,
-        "response_letter_required": false,
-        "area": {
-            "id": "3",
-            "name": "Екатеринбург",
-            "url": "https://api.hh.ru/areas/3"
-        },
-        "salary": {
-            "from": 115805,
-            "to": 0,
-            "currency": "RUR",
-            "gross": true
-        },
-        "type": {
-            "id": "open",
-            "name": "Открытая"
-        },
-        "address": {
-            "city": "Екатеринбург",
-            "street": "улица Бориса Ельцина",
-            "building": "3",
-            "lat": 56.844894,
-            "lng": 60.591438,
-            "description": null,
-            "raw": "Екатеринбург, улица Бориса Ельцина, 3",
-            "metro": null,
-            "metro_stations": [],
-            "id": "7082339"
-        },
-        "response_url": null,
-        "sort_point_distance": null,
-        "published_at": "2024-07-23T17:28:08+0300",
-        "created_at": "2024-07-23T17:28:08+0300",
-        "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=103480142",
-        "branding": {
-            "type": "MAKEUP",
-            "tariff": null
-        },
-        "show_logo_in_search": true,
-        "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/103480142?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/103480142",
-        "relations": [],
-        "employer": {
-            "id": "52389",
-            "name": "ЦУМ, ТД",
-            "url": "https://api.hh.ru/employers/52389",
-            "alternate_url": "https://hh.ru/employer/52389",
-            "logo_urls": {
-                "original": "https://img.hhcdn.ru/employer-logo-original/901928.png",
-                "90": "https://img.hhcdn.ru/employer-logo/4048399.png",
-                "240": "https://img.hhcdn.ru/employer-logo/4048400.png"
-            },
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=52389",
-            "accredited_it_employer": false,
-            "trusted": true
-        },
-        "snippet": {
-            "requirement": "Опыт работы в интернет-магазинах. Уверенный пользователь ПК, а также мобильных устройств, мессенджеров. Опыт вождения от 3-х лет. ",
-            "responsibility": "Доставлять заказы покупателям на автомобиле компании (одежда/обувь/аксессуары класса Luxe). Предоставлять качественный сервис согласно стандартов компании (информация о товаре..."
-        },
-        "contacts": null,
-        "schedule": {
-            "id": "shift",
-            "name": "Сменный график"
-        },
-        "working_days": [],
-        "working_time_intervals": [],
-        "working_time_modes": [],
-        "accept_temporary": false,
-        "professional_roles": [
-            {
-                "id": "58",
-                "name": "Курьер"
-            }
-        ],
-        "accept_incomplete_resumes": false,
-        "experience": {
-            "id": "between1And3",
-            "name": "От 1 года до 3 лет"
-        },
-        "employment": {
-            "id": "full",
-            "name": "Полная занятость"
         },
         "adv_response_url": null,
         "is_adv_vacancy": false,
@@ -7601,9 +7771,9 @@
         "adv_context": null
     },
     {
-        "id": "94820015",
+        "id": "103526015",
         "premium": false,
-        "name": "Водитель-курьер на личном автомобиле (г. Екатеринбург)",
+        "name": "Водитель-курьер по доставке косметики/товаров на Личном Автомобиле (БЕСПЛАТНОЕ ТО)",
         "department": null,
         "has_test": false,
         "response_letter_required": false,
@@ -7613,88 +7783,8 @@
             "url": "https://api.hh.ru/areas/3"
         },
         "salary": {
-            "from": 85000,
-            "to": 0,
-            "currency": "RUR",
-            "gross": true
-        },
-        "type": {
-            "id": "open",
-            "name": "Открытая"
-        },
-        "address": null,
-        "response_url": null,
-        "sort_point_distance": null,
-        "published_at": "2024-07-16T10:07:20+0300",
-        "created_at": "2024-07-16T10:07:20+0300",
-        "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=94820015",
-        "show_logo_in_search": null,
-        "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/94820015?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/94820015",
-        "relations": [],
-        "employer": {
-            "id": "17488",
-            "name": "ЛАБИРИНТ",
-            "url": "https://api.hh.ru/employers/17488",
-            "alternate_url": "https://hh.ru/employer/17488",
-            "logo_urls": {
-                "original": "https://img.hhcdn.ru/employer-logo-original/228439.gif",
-                "90": "https://img.hhcdn.ru/employer-logo/313184.png",
-                "240": "https://img.hhcdn.ru/employer-logo/386041.png"
-            },
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=17488",
-            "accredited_it_employer": true,
-            "trusted": true
-        },
-        "snippet": {
-            "requirement": "Образование не ниже среднего. Водительское удостоверение категории В, наличие медицинской справки о допуске к управлению ТС, личный автомобиль, готовность использовать...",
-            "responsibility": "Доставка интернет-заказов по г. Екатеринбургу."
-        },
-        "contacts": null,
-        "schedule": {
-            "id": "fullDay",
-            "name": "Полный день"
-        },
-        "working_days": [],
-        "working_time_intervals": [],
-        "working_time_modes": [],
-        "accept_temporary": true,
-        "professional_roles": [
-            {
-                "id": "58",
-                "name": "Курьер"
-            }
-        ],
-        "accept_incomplete_resumes": true,
-        "experience": {
-            "id": "noExperience",
-            "name": "Нет опыта"
-        },
-        "employment": {
-            "id": "full",
-            "name": "Полная занятость"
-        },
-        "adv_response_url": null,
-        "is_adv_vacancy": false,
-        "adv_context": null
-    },
-    {
-        "id": "102640967",
-        "premium": false,
-        "name": "Водитель-курьер на своём автомобиле",
-        "department": null,
-        "has_test": false,
-        "response_letter_required": false,
-        "area": {
-            "id": "3",
-            "name": "Екатеринбург",
-            "url": "https://api.hh.ru/areas/3"
-        },
-        "salary": {
-            "from": 85000,
-            "to": 141000,
+            "from": 80000,
+            "to": 160000,
             "currency": "RUR",
             "gross": false
         },
@@ -7705,32 +7795,27 @@
         "address": null,
         "response_url": null,
         "sort_point_distance": null,
-        "published_at": "2024-06-25T07:10:05+0300",
-        "created_at": "2024-06-25T07:10:05+0300",
+        "published_at": "2024-07-08T16:50:43+0300",
+        "created_at": "2024-07-08T16:50:43+0300",
         "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=102640967",
-        "show_logo_in_search": null,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=103526015",
         "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/102640967?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/102640967",
+        "url": "https://api.hh.ru/vacancies/103526015?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/103526015",
         "relations": [],
         "employer": {
-            "id": "2198765",
-            "name": "Квазар",
-            "url": "https://api.hh.ru/employers/2198765",
-            "alternate_url": "https://hh.ru/employer/2198765",
-            "logo_urls": {
-                "original": "https://img.hhcdn.ru/employer-logo-original/1042608.png",
-                "240": "https://img.hhcdn.ru/employer-logo/5791189.png",
-                "90": "https://img.hhcdn.ru/employer-logo/5791188.png"
-            },
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2198765",
+            "id": "10660107",
+            "name": "Техномомент",
+            "url": "https://api.hh.ru/employers/10660107",
+            "alternate_url": "https://hh.ru/employer/10660107",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10660107",
             "accredited_it_employer": false,
             "trusted": true
         },
         "snippet": {
-            "requirement": "Требования: - Водительское удостоверение категории B; Знание города и умение использовать навигационные системы; - Ответственность и внимательность к деталям; - Готовность работать в...",
-            "responsibility": null
+            "requirement": "Наличие смартфона.  Желание работать в команде и помогать коллегам..",
+            "responsibility": "Водитель-<highlighttext>Курьер</highlighttext> по доставке косметики/товаров (Гибкий график).  Доставка небольших лекарств, пакетов, коробок, товаров клиенту;."
         },
         "contacts": null,
         "schedule": {
@@ -7765,86 +7850,6 @@
         "employment": {
             "id": "part",
             "name": "Частичная занятость"
-        },
-        "adv_response_url": null,
-        "is_adv_vacancy": false,
-        "adv_context": null
-    },
-    {
-        "id": "101820721",
-        "premium": false,
-        "name": "Пеший курьер",
-        "department": null,
-        "has_test": false,
-        "response_letter_required": false,
-        "area": {
-            "id": "3",
-            "name": "Екатеринбург",
-            "url": "https://api.hh.ru/areas/3"
-        },
-        "salary": {
-            "from": 28300,
-            "to": 28300,
-            "currency": "RUR",
-            "gross": false
-        },
-        "type": {
-            "id": "open",
-            "name": "Открытая"
-        },
-        "address": null,
-        "response_url": null,
-        "sort_point_distance": null,
-        "published_at": "2024-07-09T14:17:59+0300",
-        "created_at": "2024-07-09T14:17:59+0300",
-        "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101820721",
-        "show_logo_in_search": null,
-        "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/101820721?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/101820721",
-        "relations": [],
-        "employer": {
-            "id": "47781",
-            "name": "ЕРЦ",
-            "url": "https://api.hh.ru/employers/47781",
-            "alternate_url": "https://hh.ru/employer/47781",
-            "logo_urls": {
-                "original": "https://img.hhcdn.ru/employer-logo-original/221897.jpg",
-                "240": "https://img.hhcdn.ru/employer-logo/1096536.jpeg",
-                "90": "https://img.hhcdn.ru/employer-logo/1096535.jpeg"
-            },
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=47781",
-            "accredited_it_employer": false,
-            "trusted": true
-        },
-        "snippet": {
-            "requirement": "Внимательность, ответственность. Готовность работать с разными объемами корреспонденции.",
-            "responsibility": "Доставка корреспонденции (письма, квитанции) в почтовые ящики жилых домов и в организации. Доставка по городу (преимущественно Чкаловский район)."
-        },
-        "contacts": null,
-        "schedule": {
-            "id": "fullDay",
-            "name": "Полный день"
-        },
-        "working_days": [],
-        "working_time_intervals": [],
-        "working_time_modes": [],
-        "accept_temporary": false,
-        "professional_roles": [
-            {
-                "id": "58",
-                "name": "Курьер"
-            }
-        ],
-        "accept_incomplete_resumes": true,
-        "experience": {
-            "id": "noExperience",
-            "name": "Нет опыта"
-        },
-        "employment": {
-            "id": "full",
-            "name": "Полная занятость"
         },
         "adv_response_url": null,
         "is_adv_vacancy": false,
@@ -7936,6 +7941,86 @@
         "employment": {
             "id": "part",
             "name": "Частичная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "101820721",
+        "premium": false,
+        "name": "Пеший курьер",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+            "from": 28300,
+            "to": 28300,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-07-09T14:17:59+0300",
+        "created_at": "2024-07-09T14:17:59+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101820721",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/101820721?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/101820721",
+        "relations": [],
+        "employer": {
+            "id": "47781",
+            "name": "ЕРЦ",
+            "url": "https://api.hh.ru/employers/47781",
+            "alternate_url": "https://hh.ru/employer/47781",
+            "logo_urls": {
+                "original": "https://img.hhcdn.ru/employer-logo-original/221897.jpg",
+                "240": "https://img.hhcdn.ru/employer-logo/1096536.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/1096535.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=47781",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Внимательность, ответственность. Готовность работать с разными объемами корреспонденции.",
+            "responsibility": "Доставка корреспонденции (письма, квитанции) в почтовые ящики жилых домов и в организации. Доставка по городу (преимущественно Чкаловский район)."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "58",
+                "name": "Курьер"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
         },
         "adv_response_url": null,
         "is_adv_vacancy": false,
@@ -8155,91 +8240,6 @@
         "adv_context": null
     },
     {
-        "id": "103526015",
-        "premium": false,
-        "name": "Водитель-курьер по доставке косметики/товаров на Личном Автомобиле (БЕСПЛАТНОЕ ТО)",
-        "department": null,
-        "has_test": false,
-        "response_letter_required": false,
-        "area": {
-            "id": "3",
-            "name": "Екатеринбург",
-            "url": "https://api.hh.ru/areas/3"
-        },
-        "salary": {
-            "from": 80000,
-            "to": 160000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "type": {
-            "id": "open",
-            "name": "Открытая"
-        },
-        "address": null,
-        "response_url": null,
-        "sort_point_distance": null,
-        "published_at": "2024-07-08T16:50:43+0300",
-        "created_at": "2024-07-08T16:50:43+0300",
-        "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=103526015",
-        "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/103526015?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/103526015",
-        "relations": [],
-        "employer": {
-            "id": "10660107",
-            "name": "Техномомент",
-            "url": "https://api.hh.ru/employers/10660107",
-            "alternate_url": "https://hh.ru/employer/10660107",
-            "logo_urls": null,
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10660107",
-            "accredited_it_employer": false,
-            "trusted": true
-        },
-        "snippet": {
-            "requirement": "Наличие смартфона.  Желание работать в команде и помогать коллегам..",
-            "responsibility": "Водитель-<highlighttext>Курьер</highlighttext> по доставке косметики/товаров (Гибкий график).  Доставка небольших лекарств, пакетов, коробок, товаров клиенту;."
-        },
-        "contacts": null,
-        "schedule": {
-            "id": "flexible",
-            "name": "Гибкий график"
-        },
-        "working_days": [],
-        "working_time_intervals": [
-            {
-                "id": "from_four_to_six_hours_in_a_day",
-                "name": "Можно работать сменами по 4–6 часов в день"
-            }
-        ],
-        "working_time_modes": [
-            {
-                "id": "start_after_sixteen",
-                "name": "Можно начинать работать после 16:00"
-            }
-        ],
-        "accept_temporary": true,
-        "professional_roles": [
-            {
-                "id": "21",
-                "name": "Водитель"
-            }
-        ],
-        "accept_incomplete_resumes": true,
-        "experience": {
-            "id": "noExperience",
-            "name": "Нет опыта"
-        },
-        "employment": {
-            "id": "part",
-            "name": "Частичная занятость"
-        },
-        "adv_response_url": null,
-        "is_adv_vacancy": false,
-        "adv_context": null
-    },
-    {
         "id": "91628225",
         "premium": false,
         "name": "Водитель-курьер",
@@ -8329,6 +8329,193 @@
         "employment": {
             "id": "full",
             "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "104381889",
+        "premium": false,
+        "name": "Водитель-курьер с личным автомобилем",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+            "from": 100000,
+            "to": 0,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "посёлок Совхозный",
+            "street": "Предельная улица",
+            "building": "57к2",
+            "lat": 56.768956,
+            "lng": 60.555757,
+            "description": null,
+            "raw": "посёлок Совхозный, Предельная улица, 57к2",
+            "metro": null,
+            "metro_stations": [],
+            "id": "7313830"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-07-22T16:40:14+0300",
+        "created_at": "2024-07-22T16:40:14+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=104381889",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/104381889?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/104381889",
+        "relations": [],
+        "employer": {
+            "id": "8063",
+            "name": "Курьер Сервис Экспресс",
+            "url": "https://api.hh.ru/employers/8063",
+            "alternate_url": "https://hh.ru/employer/8063",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/2084218.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/410536.JPG",
+                "240": "https://img.hhcdn.ru/employer-logo/2084219.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8063",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Наличие легкового автомобиля. Действующие водительские права категории В.",
+            "responsibility": "Доставка корреспонденции и мелкогабаритных товаров (без продуктов питания) по всему городу. Работа с сопроводительными документами. Работа с планшетом/смартфоном в..."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "21",
+                "name": "Водитель"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "98515716",
+        "premium": false,
+        "name": "Доставщик/Пеший курьер",
+        "department": {
+            "id": "1272486-1272486-dostavka",
+            "name": "СберМаркет Сборка и доставка"
+        },
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+            "from": 0,
+            "to": 87000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-07-22T12:59:10+0300",
+        "created_at": "2024-07-22T12:59:10+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=98515716",
+        "branding": {
+            "type": "MAKEUP",
+            "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/98515716?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/98515716",
+        "relations": [],
+        "employer": {
+            "id": "1272486",
+            "name": "СберМаркет",
+            "url": "https://api.hh.ru/employers/1272486",
+            "alternate_url": "https://hh.ru/employer/1272486",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/3899103.png",
+                "240": "https://img.hhcdn.ru/employer-logo/3899104.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/864557.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1272486",
+            "accredited_it_employer": true,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "У тебя есть телефон или планшет на базе Android или iOS. Ты готов оформить медицинскую книжку и самозанятость.",
+            "responsibility": "Доставлять заказы в удобном районе. Время от времени созваниваться с клиентами и уточнять детали заказов."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "flexible",
+            "name": "Гибкий график"
+        },
+        "working_days": [],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [],
+        "accept_temporary": true,
+        "professional_roles": [
+            {
+                "id": "58",
+                "name": "Курьер"
+            }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
         },
         "adv_response_url": null,
         "is_adv_vacancy": false,
@@ -8456,98 +8643,6 @@
         "employment": {
             "id": "full",
             "name": "Полная занятость"
-        },
-        "adv_response_url": null,
-        "is_adv_vacancy": false,
-        "adv_context": null
-    },
-    {
-        "id": "98515716",
-        "premium": false,
-        "name": "Доставщик/Пеший курьер",
-        "department": {
-            "id": "1272486-1272486-dostavka",
-            "name": "СберМаркет Сборка и доставка"
-        },
-        "has_test": false,
-        "response_letter_required": false,
-        "area": {
-            "id": "3",
-            "name": "Екатеринбург",
-            "url": "https://api.hh.ru/areas/3"
-        },
-        "salary": {
-            "from": 0,
-            "to": 87000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "type": {
-            "id": "open",
-            "name": "Открытая"
-        },
-        "address": null,
-        "response_url": null,
-        "sort_point_distance": null,
-        "published_at": "2024-07-22T12:59:10+0300",
-        "created_at": "2024-07-22T12:59:10+0300",
-        "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=98515716",
-        "branding": {
-            "type": "MAKEUP",
-            "tariff": null
-        },
-        "show_logo_in_search": true,
-        "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/98515716?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/98515716",
-        "relations": [],
-        "employer": {
-            "id": "1272486",
-            "name": "СберМаркет",
-            "url": "https://api.hh.ru/employers/1272486",
-            "alternate_url": "https://hh.ru/employer/1272486",
-            "logo_urls": {
-                "90": "https://img.hhcdn.ru/employer-logo/3899103.png",
-                "240": "https://img.hhcdn.ru/employer-logo/3899104.png",
-                "original": "https://img.hhcdn.ru/employer-logo-original/864557.png"
-            },
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1272486",
-            "accredited_it_employer": true,
-            "trusted": true
-        },
-        "snippet": {
-            "requirement": "У тебя есть телефон или планшет на базе Android или iOS. Ты готов оформить медицинскую книжку и самозанятость.",
-            "responsibility": "Доставлять заказы в удобном районе. Время от времени созваниваться с клиентами и уточнять детали заказов."
-        },
-        "contacts": null,
-        "schedule": {
-            "id": "flexible",
-            "name": "Гибкий график"
-        },
-        "working_days": [],
-        "working_time_intervals": [
-            {
-                "id": "from_four_to_six_hours_in_a_day",
-                "name": "Можно работать сменами по 4–6 часов в день"
-            }
-        ],
-        "working_time_modes": [],
-        "accept_temporary": true,
-        "professional_roles": [
-            {
-                "id": "58",
-                "name": "Курьер"
-            }
-        ],
-        "accept_incomplete_resumes": true,
-        "experience": {
-            "id": "noExperience",
-            "name": "Нет опыта"
-        },
-        "employment": {
-            "id": "part",
-            "name": "Частичная занятость"
         },
         "adv_response_url": null,
         "is_adv_vacancy": false,
@@ -8730,101 +8825,6 @@
         "adv_context": null
     },
     {
-        "id": "104381889",
-        "premium": false,
-        "name": "Водитель-курьер с личным автомобилем",
-        "department": null,
-        "has_test": false,
-        "response_letter_required": false,
-        "area": {
-            "id": "3",
-            "name": "Екатеринбург",
-            "url": "https://api.hh.ru/areas/3"
-        },
-        "salary": {
-            "from": 100000,
-            "to": 0,
-            "currency": "RUR",
-            "gross": false
-        },
-        "type": {
-            "id": "open",
-            "name": "Открытая"
-        },
-        "address": {
-            "city": "посёлок Совхозный",
-            "street": "Предельная улица",
-            "building": "57к2",
-            "lat": 56.768956,
-            "lng": 60.555757,
-            "description": null,
-            "raw": "посёлок Совхозный, Предельная улица, 57к2",
-            "metro": null,
-            "metro_stations": [],
-            "id": "7313830"
-        },
-        "response_url": null,
-        "sort_point_distance": null,
-        "published_at": "2024-07-22T16:40:14+0300",
-        "created_at": "2024-07-22T16:40:14+0300",
-        "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=104381889",
-        "branding": {
-            "type": "MAKEUP",
-            "tariff": null
-        },
-        "show_logo_in_search": true,
-        "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/104381889?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/104381889",
-        "relations": [],
-        "employer": {
-            "id": "8063",
-            "name": "Курьер Сервис Экспресс",
-            "url": "https://api.hh.ru/employers/8063",
-            "alternate_url": "https://hh.ru/employer/8063",
-            "logo_urls": {
-                "90": "https://img.hhcdn.ru/employer-logo/2084218.jpeg",
-                "original": "https://img.hhcdn.ru/employer-logo-original/410536.JPG",
-                "240": "https://img.hhcdn.ru/employer-logo/2084219.jpeg"
-            },
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8063",
-            "accredited_it_employer": false,
-            "trusted": true
-        },
-        "snippet": {
-            "requirement": "Наличие легкового автомобиля. Действующие водительские права категории В.",
-            "responsibility": "Доставка корреспонденции и мелкогабаритных товаров (без продуктов питания) по всему городу. Работа с сопроводительными документами. Работа с планшетом/смартфоном в..."
-        },
-        "contacts": null,
-        "schedule": {
-            "id": "fullDay",
-            "name": "Полный день"
-        },
-        "working_days": [],
-        "working_time_intervals": [],
-        "working_time_modes": [],
-        "accept_temporary": true,
-        "professional_roles": [
-            {
-                "id": "21",
-                "name": "Водитель"
-            }
-        ],
-        "accept_incomplete_resumes": true,
-        "experience": {
-            "id": "noExperience",
-            "name": "Нет опыта"
-        },
-        "employment": {
-            "id": "full",
-            "name": "Полная занятость"
-        },
-        "adv_response_url": null,
-        "is_adv_vacancy": false,
-        "adv_context": null
-    },
-    {
         "id": "80632601",
         "premium": false,
         "name": "Менеджер-Водитель-курьер с личным автомобилем (по доставке банковских карт)",
@@ -8892,6 +8892,97 @@
             }
         ],
         "accept_incomplete_resumes": false,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+    },
+    {
+        "id": "100069009",
+        "premium": false,
+        "name": "Водитель-курьер",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+            "id": "3",
+            "name": "Екатеринбург",
+            "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+            "from": 70000,
+            "to": 0,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Екатеринбург",
+            "street": "Черкасская улица",
+            "building": "9",
+            "lat": 56.822331,
+            "lng": 60.558029,
+            "description": null,
+            "raw": "Екатеринбург, Черкасская улица, 9",
+            "metro": null,
+            "metro_stations": [],
+            "id": "5985593"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2024-07-24T07:10:46+0300",
+        "created_at": "2024-07-24T07:10:46+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100069009",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/100069009?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/100069009",
+        "relations": [],
+        "employer": {
+            "id": "4696956",
+            "name": "Стритс",
+            "url": "https://api.hh.ru/employers/4696956",
+            "alternate_url": "https://hh.ru/employer/4696956",
+            "logo_urls": {
+                "90": "https://img.hhcdn.ru/employer-logo/6509477.png",
+                "240": "https://img.hhcdn.ru/employer-logo/6509478.png",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1222259.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4696956",
+            "accredited_it_employer": false,
+            "trusted": true
+        },
+        "snippet": {
+            "requirement": "Грамотная речь. Ответственность. Приветствуется опыт на таких должностях, как: мерчандайзер, менеджер по продажам.",
+            "responsibility": "Посещение торговых точек на личном автомобиле. Доставка продукции в пункт назначения. Обеспечение сохранности груза и материальных ценностей. Прием/сдача продукции.."
+        },
+        "contacts": null,
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+            {
+                "id": "21",
+                "name": "Водитель"
+            }
+        ],
+        "accept_incomplete_resumes": true,
         "experience": {
             "id": "noExperience",
             "name": "Нет опыта"
@@ -9047,9 +9138,9 @@
         "adv_context": null
     },
     {
-        "id": "100069009",
+        "id": "98904898",
         "premium": false,
-        "name": "Водитель-курьер",
+        "name": "Курьер вкусняшек",
         "department": null,
         "has_test": false,
         "response_letter_required": false,
@@ -9059,8 +9150,8 @@
             "url": "https://api.hh.ru/areas/3"
         },
         "salary": {
-            "from": 70000,
-            "to": 0,
+            "from": 45000,
+            "to": 75000,
             "currency": "RUR",
             "gross": false
         },
@@ -9070,58 +9161,73 @@
         },
         "address": {
             "city": "Екатеринбург",
-            "street": "Черкасская улица",
-            "building": "9",
-            "lat": 56.822331,
-            "lng": 60.558029,
+            "street": "улица Белинского",
+            "building": "163",
+            "lat": 56.807038,
+            "lng": 60.625655,
             "description": null,
-            "raw": "Екатеринбург, Черкасская улица, 9",
+            "raw": "Екатеринбург, улица Белинского, 163",
             "metro": null,
             "metro_stations": [],
-            "id": "5985593"
+            "id": "15703776"
         },
         "response_url": null,
         "sort_point_distance": null,
-        "published_at": "2024-07-24T07:10:46+0300",
-        "created_at": "2024-07-24T07:10:46+0300",
+        "published_at": "2024-07-08T12:02:03+0300",
+        "created_at": "2024-07-08T12:02:03+0300",
         "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100069009",
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=98904898",
         "show_logo_in_search": null,
         "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/100069009?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/100069009",
+        "url": "https://api.hh.ru/vacancies/98904898?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/98904898",
         "relations": [],
         "employer": {
-            "id": "4696956",
-            "name": "Стритс",
-            "url": "https://api.hh.ru/employers/4696956",
-            "alternate_url": "https://hh.ru/employer/4696956",
+            "id": "9426910",
+            "name": "HR Helper (ООО Бизнес Партнер)",
+            "url": "https://api.hh.ru/employers/9426910",
+            "alternate_url": "https://hh.ru/employer/9426910",
             "logo_urls": {
-                "90": "https://img.hhcdn.ru/employer-logo/6509477.png",
-                "240": "https://img.hhcdn.ru/employer-logo/6509478.png",
-                "original": "https://img.hhcdn.ru/employer-logo-original/1222259.png"
+                "240": "https://img.hhcdn.ru/employer-logo/5814850.jpeg",
+                "90": "https://img.hhcdn.ru/employer-logo/5814849.jpeg",
+                "original": "https://img.hhcdn.ru/employer-logo-original/1048549.jpg"
             },
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4696956",
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9426910",
             "accredited_it_employer": false,
             "trusted": true
         },
         "snippet": {
-            "requirement": "Грамотная речь. Ответственность. Приветствуется опыт на таких должностях, как: мерчандайзер, менеджер по продажам.",
-            "responsibility": "Посещение торговых точек на личном автомобиле. Доставка продукции в пункт назначения. Обеспечение сохранности груза и материальных ценностей. Прием/сдача продукции.."
+            "requirement": "Информация отсутствует",
+            "responsibility": "Подработка <highlighttext>курьер</highlighttext> заказов интерент-магазина."
         },
         "contacts": null,
         "schedule": {
             "id": "fullDay",
             "name": "Полный день"
         },
-        "working_days": [],
-        "working_time_intervals": [],
-        "working_time_modes": [],
+        "working_days": [
+            {
+                "id": "only_saturday_and_sunday",
+                "name": "Работа только по сб и вс"
+            }
+        ],
+        "working_time_intervals": [
+            {
+                "id": "from_four_to_six_hours_in_a_day",
+                "name": "Можно работать сменами по 4–6 часов в день"
+            }
+        ],
+        "working_time_modes": [
+            {
+                "id": "start_after_sixteen",
+                "name": "Можно начинать работать после 16:00"
+            }
+        ],
         "accept_temporary": false,
         "professional_roles": [
             {
-                "id": "21",
-                "name": "Водитель"
+                "id": "58",
+                "name": "Курьер"
             }
         ],
         "accept_incomplete_resumes": true,
@@ -9130,8 +9236,8 @@
             "name": "Нет опыта"
         },
         "employment": {
-            "id": "full",
-            "name": "Полная занятость"
+            "id": "part",
+            "name": "Частичная занятость"
         },
         "adv_response_url": null,
         "is_adv_vacancy": false,
@@ -9685,112 +9791,6 @@
         "employment": {
             "id": "full",
             "name": "Полная занятость"
-        },
-        "adv_response_url": null,
-        "is_adv_vacancy": false,
-        "adv_context": null
-    },
-    {
-        "id": "98904898",
-        "premium": false,
-        "name": "Курьер вкусняшек",
-        "department": null,
-        "has_test": false,
-        "response_letter_required": false,
-        "area": {
-            "id": "3",
-            "name": "Екатеринбург",
-            "url": "https://api.hh.ru/areas/3"
-        },
-        "salary": {
-            "from": 45000,
-            "to": 75000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "type": {
-            "id": "open",
-            "name": "Открытая"
-        },
-        "address": {
-            "city": "Екатеринбург",
-            "street": "улица Белинского",
-            "building": "163",
-            "lat": 56.807038,
-            "lng": 60.625655,
-            "description": null,
-            "raw": "Екатеринбург, улица Белинского, 163",
-            "metro": null,
-            "metro_stations": [],
-            "id": "15703776"
-        },
-        "response_url": null,
-        "sort_point_distance": null,
-        "published_at": "2024-07-08T12:02:03+0300",
-        "created_at": "2024-07-08T12:02:03+0300",
-        "archived": false,
-        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=98904898",
-        "show_logo_in_search": null,
-        "insider_interview": null,
-        "url": "https://api.hh.ru/vacancies/98904898?host=hh.ru",
-        "alternate_url": "https://hh.ru/vacancy/98904898",
-        "relations": [],
-        "employer": {
-            "id": "9426910",
-            "name": "HR Helper (ООО Бизнес Партнер)",
-            "url": "https://api.hh.ru/employers/9426910",
-            "alternate_url": "https://hh.ru/employer/9426910",
-            "logo_urls": {
-                "240": "https://img.hhcdn.ru/employer-logo/5814850.jpeg",
-                "90": "https://img.hhcdn.ru/employer-logo/5814849.jpeg",
-                "original": "https://img.hhcdn.ru/employer-logo-original/1048549.jpg"
-            },
-            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9426910",
-            "accredited_it_employer": false,
-            "trusted": true
-        },
-        "snippet": {
-            "requirement": "Информация отсутствует",
-            "responsibility": "Подработка <highlighttext>курьер</highlighttext> заказов интерент-магазина."
-        },
-        "contacts": null,
-        "schedule": {
-            "id": "fullDay",
-            "name": "Полный день"
-        },
-        "working_days": [
-            {
-                "id": "only_saturday_and_sunday",
-                "name": "Работа только по сб и вс"
-            }
-        ],
-        "working_time_intervals": [
-            {
-                "id": "from_four_to_six_hours_in_a_day",
-                "name": "Можно работать сменами по 4–6 часов в день"
-            }
-        ],
-        "working_time_modes": [
-            {
-                "id": "start_after_sixteen",
-                "name": "Можно начинать работать после 16:00"
-            }
-        ],
-        "accept_temporary": false,
-        "professional_roles": [
-            {
-                "id": "58",
-                "name": "Курьер"
-            }
-        ],
-        "accept_incomplete_resumes": true,
-        "experience": {
-            "id": "noExperience",
-            "name": "Нет опыта"
-        },
-        "employment": {
-            "id": "part",
-            "name": "Частичная занятость"
         },
         "adv_response_url": null,
         "is_adv_vacancy": false,

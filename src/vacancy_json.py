@@ -1,7 +1,6 @@
 from abc import ABC, abstractmethod
 import os
 import json
-from typing import List
 from src.API_HH import HeadHunterRuAPI
 from src.vacancy import Vacancy
 
@@ -42,19 +41,3 @@ class JSONSaver(Saver):
     def del_data(self):
         """ Удаление данных из файла """
         pass
-
-
-a = HeadHunterRuAPI()
-vacancies = a.getting_vacancies("курьер")
-vaca = a.validate_data(vacancies)
-
-vacanc = JSONSaver()
-vacanc.add_data(vaca)
-
-
-my_vac = JSONSaver()
-vac_data = Vacancy.cast_to_object_list(my_vac.get_data())
-vac_data = sorted(vac_data, reverse=True)
-
-for w in vac_data:
-    print(w)
