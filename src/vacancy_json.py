@@ -1,14 +1,16 @@
 from abc import ABC, abstractmethod
+import os
 import json
 from typing import List
-from config import OPERATION_PATH
+from src.API_HH import HeadHunterRuAPI
+from src.vacancy import Vacancy
 
 
 class Saver(ABC):
     """ Абстрактный класс для записи в файл """
 
     @abstractmethod
-    def write_data(self, vacancies):
+    def add_data(self, vacancy):
         pass
 
     @abstractmethod
@@ -21,29 +23,38 @@ class Saver(ABC):
 
 
 class JSONSaver(Saver):
-    """ Класс для записи в json-файл """
+    """ Класс для записи в json-файл по пути data/vacancies.json"""
 
-    def __init__(self, filepath: str = OPERATION_PATH):
-        self.__filepath = filepath
+    data_json = "../data/vacancies.json"
+    path_operations = os.path.abspath(data_json)
 
-    def add_data(self, vacancies):
+    def add_data(self, vacancy):
         """Сохранить все вакансии в файл"""
-        print(f'\nСохранение {len(vacancies)} вакансий в файл')
-        self._save_vacancies(vacancies)
+        print(f'\nСохранение {len(vacancy)} вакансий в файл {self.path_operations}\n\n')
+        with open(self.path_operations, 'w', encoding='utf-8') as file:
+            json.dump(vacancy, file, ensure_ascii=False, indent=4)
 
     def get_data(self):
-        """ Получение данных json """
-
-        try:
-            return json.load(open(self.filename))
-        except FileNotFoundError:
-            return []
+        """ Получение данных json из файла"""
+        with open(self.path_operations, encoding='utf-8') as file:
+            return json.loads(file.read())
 
     def del_data(self):
         """ Удаление данных из файла """
-
-        with open(self.filename, "w", encoding="utf-8") as file:
-            json.dump([], file, ensure_ascii=False, indent=4)
+        pass
 
 
+a = HeadHunterRuAPI()
+vacancies = a.getting_vacancies("курьер")
+vaca = a.validate_data(vacancies)
 
+vacanc = JSONSaver()
+vacanc.add_data(vaca)
+
+
+my_vac = JSONSaver()
+vac_data = Vacancy.cast_to_object_list(my_vac.get_data())
+vac_data = sorted(vac_data, reverse=True)
+
+for w in vac_data:
+    print(w)

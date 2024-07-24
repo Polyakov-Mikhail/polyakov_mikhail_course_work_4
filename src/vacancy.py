@@ -1,6 +1,5 @@
-from src.API_HH import HeadHunterRuAPI
 from typing import List
-import json
+
 
 
 class Vacancy:
@@ -20,9 +19,9 @@ class Vacancy:
         """Метод сравнения вакансий между собой по зарплате по зарплате"""
 
         if self.salary_from != 0:
-            return self.salary_from < other.salary_from
+            return self.salary_from <= other.salary_from
         elif self.salary_from == 0:
-            return self.salary_to < other.salary_from
+            return self.salary_to <= other.salary_from
 
 
     def __str__(self):
@@ -65,18 +64,3 @@ class Vacancy:
             )
             vacancies.append(vacancy)
         return vacancies
-
-
-a = HeadHunterRuAPI()
-vacancies = a.getting_vacancies("логист")
-vaca = a.validate_data(vacancies)
-
-vac_data = Vacancy.cast_to_object_list(vaca)
-
-for w in vac_data:
-    print(w)
-
-
-
-with open("../data/vacancies.json", 'w', encoding="utf-8") as file:
-    json.dump(vaca, file, ensure_ascii=False, indent=4)
