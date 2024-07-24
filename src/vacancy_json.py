@@ -1,8 +1,6 @@
 from abc import ABC, abstractmethod
 import os
 import json
-from src.API_HH import HeadHunterRuAPI
-from src.vacancy import Vacancy
 
 
 class Saver(ABC):
