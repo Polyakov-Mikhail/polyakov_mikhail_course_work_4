@@ -36,7 +36,7 @@ class HeadHunterRuAPI(APIVacancies):
         response = requests.get(url, params=params)
         return response.json()['items']
 
-    def from_hh_dict(self, vacancy_data: list) -> list:
+    def validate_data(self, vacancy_data: list) -> list:
         """ Метод возвращает экземпляр класса в виде скорректированного списка """
 
         vacancies = []
@@ -56,20 +56,3 @@ class HeadHunterRuAPI(APIVacancies):
                 vac["snippet"]["requirement"] = "Информация отсутствует"
             vacancies.append(vac)
         return vacancies
-
-
-a = HeadHunterRuAPI()
-vacancies = a.getting_vacancies("логист")
-
-for q in vacancies:
-    print(q)
-
-print("\n Другой список\n\n")
-
-
-vaca = a.from_hh_dict(vacancies)
-for w in vaca:
-    print(w)
-
-with open("../data/vacancies.json", 'w', encoding="utf-8") as file:
-    json.dump(vaca, file, ensure_ascii=False, indent=4)

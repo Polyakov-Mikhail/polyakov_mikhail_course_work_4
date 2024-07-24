@@ -1,11 +1,11 @@
 from abc import ABC, abstractmethod
 import json
+from typing import List
+from config import OPERATION_PATH
 
 
 class Saver(ABC):
     """ Абстрактный класс для записи в файл """
-    def __init__(self, filename):
-        self.filename = filename
 
     @abstractmethod
     def write_data(self, vacancies):
@@ -23,17 +23,13 @@ class Saver(ABC):
 class JSONSaver(Saver):
     """ Класс для записи в json-файл """
 
-    def __init__(self, filename):
-        super().__init__(filename)
+    def __init__(self, filepath: str = OPERATION_PATH):
+        self.__filepath = filepath
 
-    def write_data(self, vacancies):
-        """ Запись данных в json """
-
-        data = self.get_data()
-        data.extend(vacancies)
-
-        with open(self.filename, "w", encoding="utf-8") as file:
-            json.dump(data, file, ensure_ascii=False, indent=4)
+    def add_data(self, vacancies):
+        """Сохранить все вакансии в файл"""
+        print(f'\nСохранение {len(vacancies)} вакансий в файл')
+        self._save_vacancies(vacancies)
 
     def get_data(self):
         """ Получение данных json """
