@@ -32,9 +32,3 @@ poetry install
 python main.py
 ```
 
-## Тестирование
-Проект покрыт тестами (опционально, кроме user_interaction.py) для проверки корректности работы всех компонентов.
-1. Запуск тестирования и показ процента покрытия 
-```bash
-pytest --cov=api --cov=models --cov=storage --cov=utils/user_funcs.py --cov-report=term-missing
-```
