@@ -23,18 +23,41 @@ class Saver(ABC):
 class JSONSaver(Saver):
     """ Класс для записи в json-файл по пути data/vacancies.json (файл config)"""
 
-    def __init__(self, filepath: str = path_operations):
+    def __init__(self, filepath: str = path_operations, mode='w', encoding='utf-8'):
         self.__filepath = filepath
+        self._mode = mode
+        self._encoding = encoding
 
     def add_data(self, vacancy):
         """Сохранить все вакансии в файл"""
-        print(f'\nЯ нашел {len(vacancy)} подходящих вакансий и сохранил в файл {self.__filepath}\n\n')
-        with open(self.__filepath, 'w', encoding='utf-8') as file:
-            json.dump(vacancy, file, ensure_ascii=False, indent=4)
+
+        if os.stat(self.__filepath).st_size == 0:  # Проверка на пустоту файла
+            with open(self.__filepath, self._mode, encoding=self._encoding) as file:
+                json.dump(vacancy, file, ensure_ascii=False, indent=4)
+
+            print(f'\nЯ нашел {len(vacancy)} подходящих вакансий и сохранил в файл {self.__filepath}\n\n')
+
+        else:
+            existing_vacancies = self.get_data()
+
+            # Добавляем новые вакансии к существующим
+            for i in vacancy:
+                if i in existing_vacancies:
+                    continue
+                else:
+                    existing_vacancies.append(i)
+
+            # Записываем обновленные данные обратно в файл
+            with open(self.__filepath, self._mode, encoding=self._encoding) as file:
+                json.dump(existing_vacancies, file, ensure_ascii=False, indent=4)
+
+            print(f'\nЯ нашел {len(vacancy)} подходящих вакансий и сохранил в файл {self.__filepath}\n\n'
+                  f'В файле записано {len(existing_vacancies)} вакансий\n\n')
 
     def get_data(self):
         """ Получение данных json из файла"""
-        with open(self.__filepath, encoding='utf-8') as file:
+
+        with open(self.__filepath, encoding=self._encoding) as file:
             return json.loads(file.read())
 
     def del_data(self):
